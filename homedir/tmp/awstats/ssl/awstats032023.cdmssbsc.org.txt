@@ -1,0 +1,1528 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home2/cdmssbsc/tmp/awstats/ssl/awstats.cdmssbsc.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2685                
+POS_VISITOR 36208               
+POS_DAY 41143               
+POS_DOMAIN 3516                
+POS_LOGIN 4021                
+POS_ROBOT 4176                
+POS_WORMS 5097                
+POS_EMAILSENDER 5228                
+POS_EMAILRECEIVER 5371                
+POS_SESSION 41559               
+POS_SIDER 41760               
+POS_FILETYPES 5506                
+POS_DOWNLOADS 5804                
+POS_OS 6448                
+POS_BROWSER 6768                
+POS_SCREENSIZE 8107                
+POS_UNKNOWNREFERER 8181                
+POS_UNKNOWNREFERERBROWSER 8905                
+POS_ORIGIN 9324                
+POS_SEREFERRALS 9464                
+POS_PAGEREFS 9691                
+POS_SEARCHWORDS 9931                
+POS_KEYWORDS 10083               
+POS_MISC 2349                
+POS_ERRORS 10142               
+POS_CLUSTER 3877                
+POS_SIDER_404 10297               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230329164635 1 0 5984105751256
+FirstTime 20230301030912
+LastTime 20230327100049
+LastUpdate 20230329180943 1 0 1 0 0
+TotalVisits 113                 
+TotalUnique 101                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 136                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 36 2248133 22 67 935680
+1 2 2 19103 38 111 967758
+2 0 2 151800 25 96 1518160
+3 3 4 105309 107 172 1154186
+4 31 118 5874922 62 156 855474
+5 7 8 138490 58 114 3550126
+6 28 152 12639498 124 157 1218423
+7 6 6 44868 21 31 1209545
+8 12 65 3521011 17 25 248080
+9 8 30 8916237 18 27 3486256
+10 23 82 14641104 45 72 931428
+11 18 80 4642700 304 1023 3186709
+12 29 30 190875 28 60 1671508
+13 47 106 9296352 101 111 628350
+14 38 40 320389 12 24 190380
+15 18 80 4700743 14 37 265156
+16 14 44 7021844 17 56 1509918
+17 7 10 6813626 17 36 1598103
+18 12 39 1351047 49 64 331611
+19 5 37 2399933 17 41 1679614
+20 2 3 86206 17 28 1470816
+21 0 0 0 17 33 2170743
+22 20 41 490062 17 52 5031406
+23 14 14 89787 45 67 3429607
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 143 442 31523649
+nl 96 141 8172733
+in 48 259 30740672
+cn 13 43 2017051
+ca 12 45 2571348
+th 8 35 1222184
+ma 5 35 2248133
+se 5 5 25765
+tw 4 4 20612
+ru 4 4 34562
+gb 2 3 562562
+sg 2 2 38206
+ir 2 2 10306
+ph 2 2 38206
+be 1 1 5153
+eu 1 1 19103
+fr 1 1 5153
+de 1 1 5153
+pl 0 2 6193896
+pg 0 1 249592
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+Googlebot/ 286 12642476 20230307101903 0
+bingbot/ 120 5350668 20230307053343 0
+bingpreview 38 3817487 20230306123530 0
+bot[\s_+:,\.\;\/\\-] 38 2612041 20230306161934 0
+Lightspeed 29 114181 20230303182518 0
+netEstate[\x20]NE[\x20]Crawler 27 105444 20230306231025 0
+Googlebot\-Image/ 22 3669024 20230306135537 0
+(firefox/)([0-9]\.|[0-1][0]\.) 14 72142 20230307093838 0
+Go\-http\-client/ 10 20612 20230307002340 0
+facebookexternalhit/ 10 181080 20230305030733 0
+no_user_agent 5 133175 20230329164635 0
+Mail\.RU_Bot/ 4 6200712 20230307091227 0
+YandexBot/ 3 635479 20230306192849 0
+unknown 3 3214 20230303235214 3
+Applebot/ 3 14512 20230305211925 0
+Baiduspider/ 3 15459 20230307021300 0
+MojeekBot 1 5153 20230301134724 0
+LinkedInBot/ 1 5153 20230304202743 0
+Dalvik/ 1 3096948 20230307053842 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+woff2 45 2024076 0 0
+gif 14 41356 0 0
+html 128 1045542 0 0
+php 155 561023 0 0
+ttf 21 7594080 0 0
+jpg 178 22132145 0 0
+xml 1 3162 0 0
+png 47 12528900 0 0
+jpeg 49 14303920 0 0
+js 136 5132794 0 0
+css 240 3145461 0 0
+pdf 15 17191580 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 13
+/conference/AbstractVolume_CDMS_compressed.pdf 7 0 21678636
+/conference/about.pdf 6 0 315192
+/conference/organisers.pdf 4 0 226200
+/conference/Speakers.pdf 4 0 2500692
+/events/CDMS-Tarining/Feb%20Trainingcdms.pdf 3 0 1656768
+/conference/knowledge-partners.pdf 3 0 2364300
+/conference/call-paper.pdf 2 0 90136
+/conference/BEST%20PAPER.pdf 2 0 1079276
+/conference/International-Conference-Brochure-CDMS.pdf 2 0 3688278
+/conference/guidelines.pdf 2 0 98080
+/conference/Programme_Schedule_CDMS.pdf 2 0 1910074
+/conference/advisory.pdf 2 0 144242
+/conference/BRIEF-PROGRAMME-SCHEDULE.pdf 2 0 1098128
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+Unknown 38 38
+winxp 3 3
+macosx11 16 16
+androidkitkat 5 5
+linux 55 31
+win7 16 16
+androidpie 2 0
+macosx 81 54
+android10 68 9
+ios_iphone 40 9
+win8 1 1
+android 143 24
+macosx14 204 24
+macosx15 142 64
+macosx10 1 1
+androidoreo 36 4
+linuxubuntu 1 1
+win10 177 50
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 62
+chrome61.0.3163.79 10 10
+chrome78.0.3904.108 4 4
+chrome107.0.5304.141 1 0
+chrome74.0.3729.169 3 3
+safari16.2 2 0
+safari 36 8
+chrome27.0.1453.93 1 1
+firefox40.1 4 4
+chrome86.0.4240.198 3 3
+chrome107.0.0.0 68 10
+firefox94.0 1 1
+firefox78.0 36 12
+firefox56.0 4 4
+Unknown 32 32
+chrome108.0.0.0 2 2
+msie9.0 2 2
+chrome38.0.2070.813 1 1
+chrome105.0.0.0 38 10
+chrome91.0.4472.101 1 0
+chrome105.0.5195.136 1 0
+safari16.0 1 0
+chrome97.0.4692.99 204 24
+safari11.0 1 1
+chrome39.0.2665.905 1 1
+chrome110.0.0.0 265 47
+firefox99.0 34 34
+firefox43.0 8 8
+android 4 4
+msie6.0 3 3
+chrome106.0.0.0 1 1
+chrome110.0.5481.65 4 0
+chrome89.0.4389.114 1 1
+safari16.3 42 11
+chrome39.0.9205.409 1 1
+chrome110.0.5481.153 2 0
+msie11.0 1 1
+chrome96.0.4664.110 5 5
+safari9.0.2 4 4
+chrome107.0.5304.105 1 0
+chrome43.0.2357.93 1 1
+chrome104.0.0.0 3 0
+firefox104.0 1 1
+chrome109.0.5414.117 1 0
+chrome108.0.5359.128 1 0
+firefox47.0 4 4
+chrome109.0.5414.118 2 0
+chrome104.0.5112.97 1 0
+chrome103.0.5060.129 1 0
+chrome102.0.5005.63 1 0
+chrome69.0.3947.100 1 1
+chrome58.0.3029.110 1 1
+chrome38.0.6339.837 1 1
+chrome80.0.3987.149 1 1
+chrome88.0.4240.193 2 2
+chrome56.0.2924.76 5 5
+chrome91.0.4472.114 1 1
+chrome83.0.4103.97 40 40
+chrome109.0.0.0 2 0
+chrome39.0.2171.95 1 1
+safari16.1 38 8
+mozilla 11 11
+chrome87.0.4280.88 76 19
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+panscient.com 20230308123516
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230303153040
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230321143755
+firefox 20230303102257
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/http;__http://researchscan.comsys.rwth-aachen.de) 20230303152845
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230322155744
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+panscient.com 20230308123516
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230321143755
+firefox 20230303102257
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 219 305
+From1 0 0
+From2 8 36
+From3 9 10
+From4 114 678
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 6 30
+www_google_co_in 0 3
+www_bing_com 1 1
+baidu 1 1
+google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://www.sbsc.in 8 8
+http://mail.cdmssbsc.org 1 1
+https://crosscheck.ithenticate.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 1531 427258
+401 22 1025
+406 318 71868
+206 8 34948
+400 111 5772
+409 38 3154
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 964
+/old.tgz 2 -
+/xlt.php 1 http://cdmssbsc.org//xlt.php
+/old/latest.zip 1 -
+/backup/www.rar 1 -
+/cdmssbsc.org1.zip 1 -
+/adminer-4.7.0.php 2 -
+/backups/config.js 1 -
+/hdocs.gz 2 -
+/old/.well-known.zip 1 -
+/public.rar 2 -
+/wp-includes.7z 2 -
+/2.zip 2 -
+/conference/BEST 1 -
+/app.7z 2 -
+/old.zip 2 -
+/0.rar 2 -
+/old/bak.gz 1 -
+/xleet.php 1 http://cdmssbsc.org//xleet.php
+/2022.bz 2 -
+/template/admin.php 1 https://cdmssbsc.org/template/admin.php
+/install/wdf.php 1 https://cdmssbsc.org/install/wdf.php
+/old/www.zip 1 -
+/httpd.bz 2 -
+/back/public_html.zip 1 -
+/restore/wallet.zip 1 -
+/backup/backup.gz 1 -
+/backup/wallet.zip 1 -
+/templets/demodata.php 1 https://cdmssbsc.org/templets/demodata.php
+/old/sftp-config.json 2 -
+/wordpress.rar 2 -
+/data.tar.gz 2 -
+/my.gz 2 -
+/backups.tar.gz 2 -
+/old.gz 2 -
+/upload/a.php 1 https://cdmssbsc.org/upload/a.php
+/wp.php 1 http://cdmssbsc.org//wp.php
+/old/public_html.tar.gz 1 -
+/back/directory.rar 1 -
+/backup/directory.gz 1 -
+/www_cdmssbsc_org.rar 1 -
+/admin.php 2 https://cdmssbsc.org/admin.php
+/front-end/css/styles.css 1 -
+/backups/public_html.tar 1 -
+/backup/www.gz 1 -
+/www.cdmssbsc.org.tar.gz 1 -
+/cgi-bin.gz 2 -
+/back/backup.sql.zip 1 -
+/backups/directory.gz 1 -
+/upload/1234.php 1 https://cdmssbsc.org/upload/1234.php
+/uploads/xleet.php 1 http://cdmssbsc.org//uploads/xleet.php
+/backups/www.tar 1 -
+/backups/credentials.txt 2 -
+/wp-includes/1index.php 1 http://cdmssbsc.org//wp-includes/1index.php
+/back/.well-known.zip 1 -
+/apache.php 1 https://cdmssbsc.org/apache.php
+/404.php 1 http://cdmssbsc.org//404.php
+/wp-login.php 4 -
+/bak/website.tar.gz 1 -
+/restore/web.zip 1 -
+/site.tgz 2 -
+/wp-content.zip 2 -
+/public_html.7z 2 -
+/restore/www.zip 1 -
+/m/nginx.php 1 https://cdmssbsc.org/m/nginx.php
+/xwxx.php 1 http://cdmssbsc.org//xwxx.php
+/backups/website.gz 1 -
+/baindex.php 1 http://cdmssbsc.org//baindex.php
+/pack.tar.gz 2 -
+/public_html.bz 2 -
+/website.bz 2 -
+/wp-includes/assets/pi.php 1 http://cdmssbsc.org//wp-includes/assets/pi.php
+/x.php 2 https://cdmssbsc.org/x.php
+/upload/admins.php 1 https://cdmssbsc.org/upload/admins.php
+/cdmssbsc.bz 1 -
+/bak/public_html.zip 1 -
+/uploads/a.php 1 https://cdmssbsc.org/uploads/a.php
+/front-end/css/navigation.css 1 -
+/httpdocs.bz 2 -
+/template/admins.php 1 https://cdmssbsc.org/template/admins.php
+/www.7z 3 -
+/httpdocs.zip 2 -
+/site.zip 2 -
+/restore/public_html.rar 1 -
+/back/backup.zip 1 -
+/restore/index.zip 1 -
+/data/1.php 1 https://cdmssbsc.org/data/1.php
+/cdmssbsc.zip 1 -
+/asd.zip 2 -
+/.git/info/refs 1 -
+//feed/ 3 -
+/cdmssbsc.org.zip 2 -
+/wp-info.php 1 http://cdmssbsc.org//wp-info.php
+/web.tar.gz 2 -
+/install/apache.php 1 https://cdmssbsc.org/install/apache.php
+/phpmdm 2 -
+/backup/web.zip 1 -
+/httpdocs.7z 2 -
+/e/data/js/ajax.js 3 -
+/1234.tar.gz 2 -
+/bak.tar.gz 3 -
+/cdmssbsc.7z 1 -
+/backup.sql.zip 1 -
+/code.rar 2 -
+/www.cdmssbsc.org.tar 1 -
+/mininew.php 1 http://cdmssbsc.org//mininew.php
+/wallet.dat 1 -
+/wwwroot.bz 2 -
+/front-end/css/themify-icons.css 1 -
+/blog.tar.gz 2 -
+/restore/website.zip 1 -
+/123456.tar.gz 2 -
+/a.tar.gz 2 -
+/2023.bz 2 -
+/ALFA_DATA/alfacgiapi/ups.php 1 http://cdmssbsc.org//ALFA_DATA/alfacgiapi/ups.php
+/_adminer.php 2 -
+/bak/backup.sql.gz 1 -
+/install/1.php 1 https://cdmssbsc.org/install/1.php
+/httpd.rar 2 -
+/html.rar 2 -
+/wp-2021.php 1 http://cdmssbsc.org//wp-2021.php
+/restore/config.json 1 -
+/wp-includes.bz 2 -
+/backup/backup.zip 1 -
+/back/directory.zip 1 -
+/bk.tar 2 -
+/Adminer.php 2 -
+/adminer-4.2.0.php 2 -
+/wp-content/plugins/masterx/wpx.php 1 http://cdmssbsc.org//wp-content/plugins//masterx/wpx.php
+/old/full_backup.zip 1 -
+/restore/directory.tar.gz 1 -
+/media-admin.php 1 http://cdmssbsc.org//media-admin.php
+/aa.rar 2 -
+/1234.tgz 2 -
+/restore/.well-known.zip 1 -
+/new.tar.gz 2 -
+/back/bak.zip 1 -
+/0.tar 2 -
+/public.7z 2 -
+/radio.php 1 http://cdmssbsc.org//radio.php
+/blog.tgz 2 -
+/restore/backup.gz 1 -
+/bak/cdmssbsc.org.zip 1 -
+/backup/website.zip 1 -
+/backups/public_html.gz 1 -
+/backups/www.rar 1 -
+/back/backup.sql.tar 1 -
+/template/demodata.php 1 https://cdmssbsc.org/template/demodata.php
+/test.rar 2 -
+/adminer-4.6.2.php 2 -
+/aa.bz 2 -
+/visuallightbox.css 1 -
+/upload.php 2 http://cdmssbsc.org//upload.php
+/wp.tar 2 -
+/good.php 1 http://cdmssbsc.org//good.php
+/master.tgz 2 -
+/pack.tgz 2 -
+/wordpress 2 http://cdmssbsc.org/wordpress
+/install/admins.php 1 https://cdmssbsc.org/install/admins.php
+/adminer-4.6.1.php 2 -
+/data.zip 2 -
+/backup/sftp-config.json 2 -
+/2.gz 2 -
+/sites.rar 2 -
+/templets/admin.php 1 https://cdmssbsc.org/templets/admin.php
+/back.rar 2 -
+/www.cdmssbsc.org.tgz 1 -
+/cdmssbsc_org.7z 1 -
+/old/backup.tar.gz 1 -
+/old/directory.zip 1 -
+/aa.zip 2 -
+/wp-blog.php 1 http://cdmssbsc.org//wp-blog.php
+/restore/bak.gz 1 -
+/backup/directory.tar 1 -
+/htdocs.tgz 2 -
+/old/bak.zip 1 -
+/sites.bz 2 -
+/file.zip 2 -
+/backup/website.rar 1 -
+/old.tar 2 -
+/cdmssbsc.org.tar.gz 2 -
+/backup.rar 3 -
+/data.tgz 2 -
+/hehe.php 1 http://cdmssbsc.org//hehe.php
+/pack.zip 2 -
+/old/public_html.rar 1 -
+/restore/website.tar 1 -
+/uploads/x.php 1 https://cdmssbsc.org/uploads/x.php
+/install/admin.php 1 https://cdmssbsc.org/install/admin.php
+/wp-content/plugins/easybusy/wp-blog.php 1 http://cdmssbsc.org//wp-content/plugins/easybusy/wp-blog.php
+/123456.tar 2 -
+/old/www.gz 1 -
+/back/directory.tar.gz 1 -
+/backup/www.tar 1 -
+/public_html.zip 5 -
+/wordpress.tar 2 -
+/2019.zip 2 -
+/restore/bak.tar.gz 1 -
+/1.tar.gz 2 -
+/wp-cc.php 1 -
+/xl.php 2 http://cdmssbsc.org//xl.php
+/site.tar.gz 2 -
+/0.tgz 2 -
+/adminer-4.1.0.php 2 -
+/old/directory.gz 1 -
+/bak/credentials.txt 2 -
+/0z.php 1 http://cdmssbsc.org//0z.php
+/doc.php 1 http://cdmssbsc.org//doc.php
+/cgi-bin.zip 2 -
+/restore/backup.tar 1 -
+/back/Archive.zip 1 -
+/backup/directory.tar.gz 1 -
+/blog.zip 2 -
+/123.tar.gz 2 -
+/backups/cdmssbsc.org.rar 1 -
+/wordpress.zip 2 -
+/old/website.tar 1 -
+/hdocs.tar 2 -
+/bak/public_html.tar 1 -
+/bak/backup.zip 1 -
+/backup/credentials.txt 2 -
+/old/Archive.zip 1 -
+/payment/index.php 1 -
+/templets/admins.php 1 https://cdmssbsc.org/templets/admins.php
+/upload/demodata.php 1 https://cdmssbsc.org/upload/demodata.php
+/www.cdmssbsc.org.gz 1 -
+/lock360.php 1 http://cdmssbsc.org//lock360.php
+/wp-includes.zip 2 -
+/wp-admin/rss.php 1 http://cdmssbsc.org//wp-admin/rss.php
+/wp-admin.tgz 2 -
+/123.tar 2 -
+/bak/website.rar 1 -
+/backups/archive.zip 1 -
+/backup/public_html.gz 1 -
+/test.gz 2 -
+/httpd.zip 2 -
+/old/public_html.zip 1 -
+/phpmyadmin 2 -
+/www_cdmssbsc_org.tar.gz 1 -
+/install/1234.php 1 https://cdmssbsc.org/install/1234.php
+/conference/International 1 -
+/bc 2 http://cdmssbsc.org/bc
+/back/cdmssbsc.org.rar 1 -
+/wdf.php 1 https://cdmssbsc.org/wdf.php
+/srx.php 1 http://cdmssbsc.org//srx.php
+/payout.php 1 http://cdmssbsc.org//payout.php
+/public.tar 2 -
+/uploads/flink/index.html 1 -
+/2023.tar.gz 2 -
+/3x.php 1 http://cdmssbsc.org//3x.php
+/data/demodata.php 1 https://cdmssbsc.org/data/demodata.php
+/blog.bz 2 -
+/sites.tgz 2 -
+/front-end/css/slider.css 1 -
+/www.cdmssbsc.org.rar 1 -
+/backup/public_html.rar 1 -
+/adminer-4.7.2.php 2 -
+/backups/public_html.tar.gz 1 -
+/old/website.gz 1 -
+/www.bz 3 -
+/back/www.rar 1 -
+/m/1234.php 1 https://cdmssbsc.org/m/1234.php
+/1234.bz 2 -
+/template/newfile.php 1 https://cdmssbsc.org/template/newfile.php
+/templets/apache.php 1 https://cdmssbsc.org/templets/apache.php
+/m/x.php 1 https://cdmssbsc.org/m/x.php
+/autoload_classmap.php 1 http://cdmssbsc.org//autoload_classmap.php
+/wp-admin.rar 2 -
+/a.7z 2 -
+/sites.7z 2 -
+/wp-admin.gz 2 -
+/test.tar 2 -
+/back/www.gz 1 -
+/admin.gz 2 -
+/wp-content.tar.gz 2 -
+/backup/backup.sql.zip 1 -
+/adminer-4.7.1.php 2 -
+/old.tar.gz 2 -
+/2021.zip 2 -
+/image/screenshot_1.php 1 http://cdmssbsc.org//image/screenshot_1.php
+/backup/backup.sql.tar 1 -
+/adminer-4.7.6.php 2 -
+/master.gz 2 -
+/htdocs.gz 2 -
+/home.tgz 2 -
+/restore/directory.zip 1 -
+/cgi-bin.bz 2 -
+/humans.txt 1 http://cdmssbsc.org/humans.txt
+/back/bak.tar 1 -
+/backups/backup.sql.zip 1 -
+/restore/directory.tar 1 -
+/wp-content.7z 2 -
+/wp-content.bz 2 -
+/old/backup.sql.gz 1 -
+/backups/bak.zip 1 -
+/front-end/css/animate.css 1 -
+/backups.rar 2 -
+/small.php 1 http://cdmssbsc.org//small.php
+/restore/website.tar.gz 1 -
+/screenshot_1.php 1 http://cdmssbsc.org//screenshot_1.php
+/restore/wallet.dat 1 -
+/bak/.well-known.zip 1 -
+/restore/bak.tar 1 -
+/templets/x.php 1 https://cdmssbsc.org/templets/x.php
+/bak.tgz 2 -
+/back/archive.zip 1 -
+/website.gz 3 -
+/bak/latest.zip 1 -
+/backup/config.js 1 -
+/1.zip 2 -
+/back/wallet.dat 1 -
+/web.gz 2 -
+/www_cdmssbsc_org.tar 1 -
+/123456.7z 2 -
+/backup.zip 3 -
+/a.gz 2 -
+/old/backup.sql.tar 1 -
+/bak/www.zip 1 -
+/sites.tar.gz 2 -
+/backups/backup.tar.gz 1 -
+/app.bz 2 -
+/bk.tar.gz 2 -
+/bak/bak.gz 1 -
+/bak.zip 3 -
+/adminer-4.2.1.php 2 -
+/home.zip 2 -
+/wwwroot.gz 2 -
+/php.rar 2 -
+/install/newfile.php 1 https://cdmssbsc.org/install/newfile.php
+/application.zip 1 -
+/wp.tgz 2 -
+/unzipper.php 2 -
+/bak/public_html.tar.gz 1 -
+/uploads/nginx.php 1 https://cdmssbsc.org/uploads/nginx.php
+/web.zip 3 -
+/bak.gz 3 -
+/2022.tar.gz 2 -
+/backup/bak.tar 1 -
+/phpAdmin 2 -
+/backup/cdmssbsc.org.rar 1 -
+/new.tar 2 -
+/linktr.ee/cdms_sbsc 3 https://cdmssbsc.org
+/main 2 http://cdmssbsc.org/main
+/backups/public_html.zip 1 -
+/web.tgz 2 -
+/restore/cdmssbsc.org.zip 1 -
+/xml.php 1 http://cdmssbsc.org//xml.php
+/backup.tar.gz 3 -
+/backups.7z 2 -
+/install/demodata.php 1 https://cdmssbsc.org/install/demodata.php
+/back/bak.tar.gz 1 -
+/aa.gz 2 -
+/restore/backup.sql.tar 1 -
+/4price.php 1 http://cdmssbsc.org//4price.php
+/httpd.tar.gz 2 -
+/wp-content/upload.php 1 http://cdmssbsc.org//wp-content/upload.php
+/bk.tgz 2 -
+/backups/Archive.zip 1 -
+/cdmssbsc_org.tgz 1 -
+/bak/public_html.rar 1 -
+/images/vuln.php 1 http://cdmssbsc.org//images/vuln.php
+/bak/www.gz 1 -
+/cdmssbsc.org.gz 2 -
+/backups.tar 2 -
+/new.gz 2 -
+/wso.php 1 http://cdmssbsc.org//wso.php
+/restore/latest.zip 1 -
+/crypted.php 1 http://cdmssbsc.org//crypted.php
+/adminer-4.6.0.php 2 -
+/wordpress.tar.gz 2 -
+/bak/bak.zip 1 -
+/www_cdmssbsc_org.tgz 1 -
+/2022.tgz 2 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/bak.tar 3 -
+/back/cdmssbsc.org.zip 1 -
+/old/credentials.txt 2 -
+/2.tar.gz 2 -
+/backup/bak.gz 1 -
+/about.php 1 http://cdmssbsc.org//about.php
+/2023.zip 2 -
+/public.zip 2 -
+/vlightbox.css 1 -
+/website.zip 3 -
+/backup/public_html.zip 1 -
+/bak/website.tar 1 -
+/old/public_html.tar 1 -
+/restore/website.rar 1 -
+/old/backup.zip 1 -
+/02.php 1 http://cdmssbsc.org//02.php
+/backup/bak.rar 1 -
+/site.bz 2 -
+/httpdocs.tar.gz 2 -
+/template/apache.php 1 https://cdmssbsc.org/template/apache.php
+/backups/www.tar.gz 1 -
+/new.tgz 2 -
+/templets/newfile.php 1 https://cdmssbsc.org/templets/newfile.php
+/cdmssbsc.tar.gz 1 -
+/backup/wallet.dat 1 -
+/restore/directory.rar 1 -
+/wwwroot.zip 2 -
+/backup/config.json 1 -
+/2020.7z 2 -
+/adminer.php 2 -
+/web.tar 2 -
+/db.php 4 -
+/adminer-4.7.5.php 2 -
+/public.tar.gz 2 -
+/__MACOSX.zip 1 -
+/wp.tar.gz 2 -
+/bak/Archive.zip 1 -
+/data/1234.php 1 https://cdmssbsc.org/data/1234.php
+/backups/backup.rar 1 -
+/www.rar 4 -
+/new.zip 2 -
+/front-end/css/plugins.css 1 -
+/backup/directory.rar 1 -
+/front-end/js/map.js 1 -
+/123.tgz 2 -
+/old/cdmssbsc.org.zip 1 -
+/backups/www.gz 1 -
+/admin.tar 2 -
+/my.bz 2 -
+/www_cdmssbsc_org.gz 1 -
+/backups.tgz 2 -
+/backup/archive.zip 1 -
+/data/nginx.php 1 https://cdmssbsc.org/data/nginx.php
+/bak/full_backup.zip 1 -
+/adminer-4.2.5.php 2 -
+/html.tar 2 -
+/c.php 1 http://cdmssbsc.org//c.php
+/front-end/css/icomoon.css 1 -
+/httpd.tgz 2 -
+/xmlrpc.php 4 https://google.com
+/ftpsync.settings 1 -
+/code.tar 2 -
+/123456.rar 2 -
+/123.zip 2 -
+/home.tar.gz 2 -
+/credentials.txt 2 -
+/restore/full_backup.zip 1 -
+/my.rar 2 -
+/backup.tar 3 -
+/backups/cdmssbsc.org.gz 1 -
+/sites.zip 2 -
+/2022.zip 2 -
+/mydb.php 2 -
+/back/index.zip 1 -
+/my.zip 2 -
+/123.gz 2 -
+/cdmssbsc.tar 1 -
+/wpx.php 1 http://cdmssbsc.org//wpx.php
+/restore/bak.rar 1 -
+/html.gz 2 -
+/wp-x.php 1 http://cdmssbsc.org//wp-x.php
+/wikindex.php 2 http://cdmssbsc.org//wikindex.php
+/httpdocs.tar 2 -
+/backups/backup.zip 1 -
+/1.gz 2 -
+/m/admins.php 1 https://cdmssbsc.org/m/admins.php
+/cdmssbsc.org.rar 2 -
+/tar.tar 2 -
+/cdmssbsc.org.tar 1 -
+/bak/backup.tar.gz 1 -
+/back/cdmssbsc.org.tar.gz 1 -
+/bak/directory.zip 1 -
+/a.zip 2 -
+/code.gz 2 -
+/2023.tgz 2 -
+/directory.gz 1 -
+/back/wallet.zip 1 -
+/httpd.7z 2 -
+/config.js 1 -
+/zip.zip 2 -
+/template/x.php 1 https://cdmssbsc.org/template/x.php
+/upload/1.php 1 https://cdmssbsc.org/upload/1.php
+/app.rar 2 -
+/wp.zip 2 -
+/wp-2019.php 1 http://cdmssbsc.org//wp-2019.php
+/wwwroot.7z 2 -
+/restore/backup.sql.zip 1 -
+/data/newfile.php 1 https://cdmssbsc.org/data/newfile.php
+/wp-admin.tar.gz 2 -
+/site.rar 2 -
+/bak/bak.rar 1 -
+/backups/directory.tar 1 -
+/restore/bak.zip 1 -
+/bak/backup.tar 1 -
+/back/www.tar.gz 1 -
+/www_cdmssbsc_org.7z 1 -
+/2022.tar 2 -
+/1234.php 1 https://cdmssbsc.org/1234.php
+/bak/config.js 1 -
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 1 http://cdmssbsc.org//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/cgi-bin.tar.gz 2 -
+/master.tar 2 -
+/backups/directory.zip 1 -
+/old/index.zip 1 -
+/old/public_html.gz 1 -
+/m/a.php 1 https://cdmssbsc.org/m/a.php
+/htdocs.tar 2 -
+/admin.tar.gz 2 -
+/website.rar 3 -
+/backups.gz 2 -
+/bak/www.tar 1 -
+/old/cdmssbsc.org.rar 1 -
+/wp-content.rar 2 -
+/wp-admin/xleet.php 1 http://cdmssbsc.org//wp-admin/xleet.php
+/backup/directory.zip 1 -
+/backups/cdmssbsc.org.zip 1 -
+/ups.php 1 http://cdmssbsc.org//ups.php
+/m/1.php 1 https://cdmssbsc.org/m/1.php
+/public_html.tar.gz 3 -
+/admin/jquery_uploader/server/php/index.php 1 -
+/back/directory.gz 1 -
+/xmlrqc.php 1 http://cdmssbsc.org//xmlrqc.php
+/back/sftp-config.json 2 -
+/html.zip 2 -
+/backup/www.zip 1 -
+/app.tar 2 -
+/aa.tar 2 -
+/2020.bz 2 -
+/wp-content.gz 2 -
+/bak/backup.sql.zip 1 -
+/wp-includes.tar.gz 2 -
+/2022.gz 2 -
+/old/bak.tar.gz 1 -
+/back/public_html.gz 1 -
+/website.7z 2 -
+/public.gz 2 -
+/my.7z 2 -
+/site.7z 2 -
+/reminder.php 1 http://cdmssbsc.org//reminder.php
+/mad.php 1 http://cdmssbsc.org//mad.php
+/priv8.php 1 http://cdmssbsc.org//priv8.php
+/uploads/admins.php 1 https://cdmssbsc.org/uploads/admins.php
+/code.zip 2 -
+/wwwroot.rar 2 -
+/wp.rar 2 -
+/restore/archive.zip 1 -
+/backup/index.zip 1 -
+/pi.php 1 http://cdmssbsc.org//pi.php
+/2.rar 2 -
+/back/www.tar 1 -
+/bak/archive.zip 1 -
+/wp-content.tgz 2 -
+/test.tar.gz 2 -
+/wp-includes.gz 2 -
+/backups/backup.sql.tar 1 -
+/public_html.tgz 2 -
+/web1.zip 2 -
+/backup/Archive.zip 1 -
+/wp-admin.tar 2 -
+/newfile.php 1 https://cdmssbsc.org/newfile.php
+/html.tgz 2 -
+/directory.tar 1 -
+/back/directory.tar 1 -
+/up-kon.php 1 http://cdmssbsc.org//up-kon.php
+/sftp-config.json 2 -
+/restore/public_html.zip 1 -
+/wp 2 http://cdmssbsc.org/wp
+/wp-admin/priv8.php 1 http://cdmssbsc.org//wp-admin/priv8.php
+/XxX.php 1 http://cdmssbsc.org//XxX.php
+/code.tgz 2 -
+/bak.rar 3 -
+/uploads/admin.php 1 https://cdmssbsc.org/uploads/admin.php
+/templets/1234.php 1 https://cdmssbsc.org/templets/1234.php
+/old/application.zip 1 -
+/old/web.zip 1 -
+/install/x.php 1 https://cdmssbsc.org/install/x.php
+/old/directory.rar 1 -
+/2023.gz 2 -
+/httpd.tar 2 -
+/bak/directory.tar 1 -
+/admin.tgz 2 -
+/new 2 http://cdmssbsc.org/new
+/my.tar.gz 2 -
+/0.zip 2 -
+/php.gz 2 -
+/back/bak.gz 1 -
+/back/bak.rar 1 -
+/data/x.php 1 https://cdmssbsc.org/data/x.php
+/m/newfile.php 1 https://cdmssbsc.org/m/newfile.php
+/restore/backup.tar.gz 1 -
+/robots.txt 89 -
+/123456.tgz 2 -
+/www.tar 4 -
+/bak/directory.tar.gz 1 -
+/directory.zip 1 -
+/php.zip 2 -
+/sites.gz 2 -
+/template/a.php 1 https://cdmssbsc.org/template/a.php
+/web.rar 2 -
+/apple-touch-icon.png 1 -
+/backups/bak.tar 1 -
+/bak/cdmssbsc.org.tar.gz 1 -
+/2023.tar 2 -
+/wp-includes.tgz 2 -
+/public_html.gz 3 -
+/admins.php 1 https://cdmssbsc.org/admins.php
+/backups/website.tar.gz 1 -
+/php.tgz 2 -
+/backups/wallet.dat 1 -
+/123.bz 2 -
+/back/backup.tar.gz 1 -
+/www.gz 4 -
+/public/assets/jquery-file-upload/server/php/index.php 1 -
+/backup.sql.tar 1 -
+/my.tgz 2 -
+/back/full_backup.zip 1 -
+/phpMyAdmin 2 -
+/bak/wallet.dat 1 -
+/blog.7z 2 -
+/master.zip 2 -
+/adminer-4.3.0.php 2 -
+/restore/backup.rar 1 -
+/uploads/wdf.php 1 https://cdmssbsc.org/uploads/wdf.php
+/back/website.gz 1 -
+/httpdocs.gz 2 -
+/1234.7z 2 -
+/2.tgz 2 -
+/m/wdf.php 1 https://cdmssbsc.org/m/wdf.php
+/sites.tar 2 -
+/cdmssbsc.gz 1 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/backup/cdmssbsc.org.gz 1 -
+/website.tgz 2 -
+/admin.zip 2 -
+/restore/www.tar.gz 1 -
+/DKIZ.php 1 http://cdmssbsc.org//DKIZ.php
+/home.gz 2 -
+/myadmin 2 -
+/adminer-4.4.0.php 2 -
+/backups/directory.rar 1 -
+/backup/backup.rar 1 -
+/pack.rar 2 -
+/backup/bak.tar.gz 1 -
+/backup/public_html.tar.gz 1 -
+/backups/website.rar 1 -
+/htdocs.zip 2 -
+/front-end/css/fontawesome-all.css 1 -
+/403.php 1 http://cdmssbsc.org//403.php
+/wp-god.php 1 http://cdmssbsc.org//wp-god.php
+/Archive.zip 1 -
+/backup/website.tar 1 -
+/hdocs.bz 2 -
+/test.tgz 2 -
+/www.tgz 3 -
+/directory.rar 1 -
+/wp-easy.php 1 http://cdmssbsc.org//wp-easy.php
+/restore/backup.sql.gz 1 -
+/front-end/js/navigation.fixed.js 1 -
+/wxo.php 1 http://cdmssbsc.org//wxo.php
+/master.tar.gz 2 -
+/.well-known.zip 1 -
+/httpdocs.tgz 2 -
+/bk 2 http://cdmssbsc.org/bk
+/up.php 1 http://cdmssbsc.org//up.php
+/cdmssbsc.tgz 1 -
+/html.tar.gz 2 -
+/cdmssbsc.rar 1 -
+/backups/latest.zip 1 -
+/httpd.gz 2 -
+/backup/.well-known.zip 1 -
+/rar.rar 2 -
+/code.tar.gz 2 -
+/new.rar 2 -
+/httpdocs.rar 2 -
+/www.zip 4 -
+/blog.rar 2 -
+/htdocs.tar.gz 2 -
+/public/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/home.tar 2 -
+/back/public_html.tar 1 -
+/php.tar 2 -
+/restore/Archive.zip 1 -
+/wp-2022.php 1 http://cdmssbsc.org//wp-2022.php
+/back/latest.zip 1 -
+/cdmssbsc_org.rar 1 -
+/cdmssbsc_org.tar 1 -
+/wp-commentin.php 1 -
+/1234.rar 2 -
+/bak/cdmssbsc.org.gz 1 -
+/wwwroot.tgz 2 -
+/front-end/css/default.css 1 -
+/backup/latest.zip 1 -
+/uploads/apache.php 1 https://cdmssbsc.org/uploads/apache.php
+/app.gz 2 -
+/bak/bak.tar 1 -
+/2index.php 2 http://cdmssbsc.org//2index.php
+/bak/backup.rar 1 -
+/test.zip 2 -
+/backup/website.gz 1 -
+/cdmssbsc.org.tgz 1 -
+/backups.zip 2 -
+/web.bz 2 -
+/www.cdmssbsc.org.zip 1 -
+/wp-content/themes/wp-pridmag/init.php 1 http://cdmssbsc.org//wp-content/themes/wp-pridmag/init.php
+/restore/sftp-config.json 2 -
+/hdocs.rar 2 -
+/cdmssbsc_org.gz 1 -
+/backups/bak.rar 1 -
+/website.tar 3 -
+/install/a.php 1 https://cdmssbsc.org/install/a.php
+/m/admin.php 1 https://cdmssbsc.org/m/admin.php
+/restore/backup.zip 1 -
+/wp-content.tar 2 -
+/2.tar 2 -
+/upload/admin.php 1 https://cdmssbsc.org/upload/admin.php
+/templets/a.php 1 https://cdmssbsc.org/templets/a.php
+/123.rar 2 -
+/m/apache.php 1 https://cdmssbsc.org/m/apache.php
+/google.php 1 http://cdmssbsc.org//google.php
+/adminer-4.7.7.php 2 -
+/bk.rar 2 -
+/wp-content/plugins/fighter/fk.php 1 http://cdmssbsc.org//wp-content/plugins/fighter/fk.php
+/bak/www.rar 1 -
+/cdmssbsc.org.bz 1 -
+/adminer-4.6.3.php 2 -
+/template/1234.php 1 https://cdmssbsc.org/template/1234.php
+/old/wallet.zip 1 -
+/backups/full_backup.zip 1 -
+/back/public_html.tar.gz 1 -
+/bk.zip 2 -
+/back.zip 2 -
+/adminer-4.7.4.php 2 -
+/full_backup.zip 1 -
+/mysql.php 2 -
+/restore/cdmssbsc.org.gz 1 -
+/public.bz 2 -
+/app.tgz 2 -
+/back/backup.gz 1 -
+/xx.php 1 http://cdmssbsc.org/xx.php
+/upload/wdf.php 1 https://cdmssbsc.org/upload/wdf.php
+/bak/config.json 1 -
+/front-end/js/main.js 1 -
+/uploads/1.php 1 https://cdmssbsc.org/uploads/1.php
+/bak/website.zip 1 -
+/front-end/css/bootstrap.min.css 1 -
+/mini.php 1 http://cdmssbsc.org//mini.php
+/wordpress.tgz 1 -
+/back/website.tar 1 -
+/back/website.rar 1 -
+/nginx.php 1 https://cdmssbsc.org/nginx.php
+/app.zip 2 -
+/old/www.tar.gz 1 -
+/assets/admin/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/data.rar 2 -
+/01.php 1 http://cdmssbsc.org//01.php
+/bak/backup.gz 1 -
+/restore/www.gz 1 -
+/back/credentials.txt 2 -
+/old-index.php 1 http://cdmssbsc.org//old-index.php
+/0.gz 2 -
+/backup.gz 3 -
+/wwwroot.tar 2 -
+/data/admins.php 1 https://cdmssbsc.org/data/admins.php
+/index.zip 1 -
+/m/demodata.php 1 https://cdmssbsc.org/m/demodata.php
+/aa.tar.gz 2 -
+/1.rar 2 -
+/config.json 1 -
+/wp-2018.php 1 http://cdmssbsc.org//wp-2018.php
+/backups/web.zip 1 -
+/backup/application.zip 1 -
+/1234.tar 2 -
+/restore/public_html.tar 1 -
+/data/admin.php 1 https://cdmssbsc.org/data/admin.php
+/restore/directory.gz 1 -
+/htdocs.rar 2 -
+/C.php 1 http://cdmssbsc.org//C.php
+/haxor.php 1 http://cdmssbsc.org//haxor.php
+/blog.tar 2 -
+/home.rar 2 -
+/restore/credentials.txt 2 -
+/restore/www.tar 1 -
+/old/archive.zip 1 -
+/wp-includes.rar 2 -
+/cdmssbsc_org.zip 1 -
+/backups.bz 2 -
+/old/directory.tar 1 -
+/master.rar 2 -
+/ini.php 1 http://cdmssbsc.org//ini.php
+/old.rar 2 -
+/upload/newfile.php 1 https://cdmssbsc.org/upload/newfile.php
+/bak/web.zip 1 -
+/backup/backup.sql.gz 1 -
+/bak/directory.rar 1 -
+/1h6j5.php 1 http://cdmssbsc.org//1h6j5.php
+/back/backup.tar 1 -
+/a.tar 2 -
+/pack.tar 2 -
+/1234.gz 2 -
+/public_html.rar 3 -
+/bk.gz 2 -
+/back/backup.sql.gz 1 -
+/backup/cdmssbsc.org.tar.gz 1 -
+/backups/wallet.zip 1 -
+/public/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/blog.gz 2 -
+/old/directory.tar.gz 1 -
+/upload/apache.php 1 https://cdmssbsc.org/upload/apache.php
+/alfa.php 1 http://cdmssbsc.org//alfa.php
+/www.cdmssbsc.org.7z 1 -
+/123.7z 2 -
+/hdocs.tar.gz 2 -
+/templets/nginx.php 1 https://cdmssbsc.org/templets/nginx.php
+/www.cdmssbsc.org.bz 1 -
+/backups/directory.tar.gz 1 -
+/old/cdmssbsc.org.tar.gz 1 -
+/123456.bz 2 -
+/backups/sftp-config.json 2 -
+/restore/config.js 1 -
+/backup/www.tar.gz 1 -
+/data.tar 2 -
+/uploads/up.php 1 http://cdmssbsc.org//uploads/up.php
+/old/config.js 1 -
+/hdocs.7z 2 -
+/old/bak.rar 1 -
+/old/backup.tar 1 -
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 http://cdmssbsc.org//wp-includes/customize/class-wp-customize-nav-menu.php
+/backups/config.json 1 -
+/data/a.php 1 https://cdmssbsc.org/data/a.php
+/new-index.php 1 http://cdmssbsc.org//new-index.php
+/php.tar.gz 2 -
+/template/1.php 1 https://cdmssbsc.org/template/1.php
+/cgi-bin.7z 2 -
+/backups/website.zip 1 -
+/old/www.tar 1 -
+/bak/cdmssbsc.org.rar 1 -
+/back/website.zip 1 -
+/front-end/js/navigation.js 1 -
+/templets/wdf.php 1 https://cdmssbsc.org/templets/wdf.php
+//wp-includes/ID3/license.txt 3 -
+/wp-22.php 1 http://cdmssbsc.org//wp-22.php
+/home 2 http://cdmssbsc.org/home
+/bak/index.zip 1 -
+/wwwroot.tar.gz 2 -
+/bak/public_html.gz 1 -
+/admin/assets/plugins/jquery-file-upload/server/php/index.php 2 -
+/asd.rar 2 -
+/pma 2 -
+/bak/bak.tar.gz 1 -
+/data/wdf.php 1 https://cdmssbsc.org/data/wdf.php
+/data.gz 2 -
+/wp_logx.php 1 http://cdmssbsc.org//wp_logx.php
+/a.php 1 https://cdmssbsc.org/a.php
+/old/backup.sql.zip 1 -
+/backups/index.zip 1 -
+/jquery.js 1 -
+/ads.txt 1 http://cdmssbsc.org/ads.txt
+/backups/public_html.rar 1 -
+/cgi-bin.rar 2 -
+/archive.zip 1 -
+/utchiha.php 1 http://cdmssbsc.org//utchiha.php
+/adminer-4.7.3.php 2 -
+/aa.7z 2 -
+/front-end/css/owl.carousel.css 1 -
+/backup.tgz 2 -
+/backup/cdmssbsc.org.zip 1 -
+/phpadmin 2 -
+/website.tar.gz 3 -
+/wordpress.gz 2 -
+/a.tgz 2 -
+/hdocs.tgz 2 -
+/backups/www.zip 1 -
+/restore/website.gz 1 -
+/my.tar 2 -
+/back/application.zip 1 -
+/1index.php 2 http://cdmssbsc.org//1index.php
+/front-end/js/plugins.js 1 -
+/restore/cdmssbsc.org.rar 1 -
+/backup/bak.zip 1 -
+/2022.7z 2 -
+/public_html.tar 3 -
+/old/backup.rar 1 -
+/backups/bak.gz 1 -
+/wp-admin/fx.php 1 http://cdmssbsc.org//wp-admin/fx.php
+/cdmssbsc_org.tar.gz 1 -
+/template/nginx.php 1 https://cdmssbsc.org/template/nginx.php
+/www.tar.gz 4 -
+/old/bak.tar 1 -
+/old/www.rar 1 -
+/lufix.php 1 http://cdmssbsc.org//lufix.php
+/back/config.json 1 -
+/uploads/1234.php 1 https://cdmssbsc.org/uploads/1234.php
+/backup/full_backup.zip 1 -
+/1.tar 2 -
+/a.bz 2 -
+/site.gz 2 -
+/wp_wrong_datlib.php 1 http://cdmssbsc.org//wp_wrong_datlib.php
+/old/website.zip 1 -
+/old/config.json 1 -
+/adminer-4.3.1.php 2 -
+/demodata.php 1 https://cdmssbsc.org/demodata.php
+/data/admin/allowurl.txt 4 -
+/cgi-bin.tar 2 -
+/restore/public_html.gz 1 -
+/bak/wallet.zip 1 -
+/back/cdmssbsc.org.gz 1 -
+/front-end/js/jquery.min.js 1 -
+/restore/www.rar 1 -
+/2022.rar 2 -
+/shell.php 1 http://cdmssbsc.org//shell.php
+/wp-content/fw.php 1 http://cdmssbsc.org//wp-content/fw.php
+/wp-includes.tar 2 -
+/old/backup.gz 1 -
+/backups/backup.gz 1 -
+/visuallightbox.js 1 -
+/a.rar 2 -
+/backups/.well-known.zip 1 -
+/resources/front-end/img/slide/1.jpg 14 -
+/bak/www.tar.gz 1 -
+/site.tar 2 -
+/hdocs.zip 2 -
+/back/backup.rar 1 -
+/public.tgz 2 -
+/back/website.tar.gz 1 -
+/backups/application.zip 1 -
+/0.tar.gz 2 -
+/back/public_html.rar 1 -
+/wp.gz 2 -
+/wp-admin.7z 2 -
+/old/wallet.dat 1 -
+/2023.rar 2 -
+/adminer-4.5.0.php 2 -
+/app.tar.gz 2 -
+/1.tgz 2 -
+/2020.zip 2 -
+/backup/backup.tar 1 -
+/data/apache.php 1 https://cdmssbsc.org/data/apache.php
+/backup 4 -
+/1.php 2 https://cdmssbsc.org/1.php
+/backups/backup.tar 1 -
+/aa.tgz 2 -
+/upload/x.php 1 https://cdmssbsc.org/upload/x.php
+/admin.rar 2 -
+/3index.php 1 http://cdmssbsc.org//3index.php
+/uploads/demodata.php 1 https://cdmssbsc.org/uploads/demodata.php
+/wp-admin/setup-config.php 3 http://cdmssbsc.org//wp-admin/setup-config.php
+/templets/1.php 1 https://cdmssbsc.org/templets/1.php
+/wp-admin.bz 2 -
+/www.cdmssbsc.org1.zip 1 -
+/123456.gz 2 -
+/marijuana.php 1 http://cdmssbsc.org//marijuana.php
+/fw.php 1 http://cdmssbsc.org//fw.php
+/backup/backup.tar.gz 1 -
+/cgi-bin.tgz 2 -
+/backups/bak.tar.gz 1 -
+/upload/nginx.php 1 https://cdmssbsc.org/upload/nginx.php
+/wp-2020.php 1 http://cdmssbsc.org//wp-2020.php
+/template/wdf.php 1 https://cdmssbsc.org/template/wdf.php
+/admin/controller/extension/wpm.php 1 http://cdmssbsc.org//admin/controller/extension/wpm.php
+/old 2 http://cdmssbsc.org/old
+/restore/cdmssbsc.org.tar.gz 1 -
+/www_cdmssbsc_org.zip 1 -
+/wp-admin.zip 2 -
+/2023.7z 2 -
+/install/nginx.php 1 https://cdmssbsc.org/install/nginx.php
+/BlockCypher.log 1 -
+/back/www.zip 1 -
+/1337.php 1 http://cdmssbsc.org//1337.php
+/uploads/newfile.php 1 https://cdmssbsc.org/uploads/newfile.php
+/adminer-4.8.1.php 2 -
+/cdmssbsc.org.7z 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 136
+91.240.118.252 96 141 8172733 20230303102300
+154.6.94.155 27 27 106155 20230308123516
+49.36.16.148 11 41 2278223 20230306043001
+103.198.173.121 9 35 1191101 20230305041213
+171.6.142.231 8 34 1193861 20230303181325
+14.139.125.162 8 38 2270679 20230302112456
+14.139.57.104 5 37 5884719 20230306061333
+152.58.144.199 5 35 2248133 20230304040825
+103.177.64.130 5 22 6791459 20230301093006
+45.248.0.139 5 35 2248133 20230305190816
+152.58.70.20 5 25 1040025 20230304083729
+27.63.195.164 5 33 6823667 20230302161818
+157.38.132.250 5 33 6823667 20230306105116
+172.121.218.24 5 5 22742 20230303235214
+223.228.237.233 5 35 2248133 20230304153241
+47.11.192.116 5 35 2248133 20230305154141
+35.87.45.12 4 34 2242980 20230304080533
+34.221.70.244 4 34 2242980 20230302060934
+157.37.213.158 4 32 6819461 20230306134000
+52.41.110.18 4 34 2242980 20230306111640
+101.68.211.2 4 4 114060 20230306144314
+34.217.42.66 4 34 2242980 20230305132728
+42.236.10.125 4 34 1863276 20230304064242
+35.86.131.121 4 34 2242980 20230303064225
+54.190.134.161 4 34 2242980 20230307002347
+167.235.64.198 1 1 19103 20230302041704
+47.31.215.148 0 1 75900 
+64.124.8.29 1 1 3667 20230305120759
+157.38.10.192 0 1 75900 
+106.205.226.177 0 1 75900 
+64.124.8.58 2 2 7283 20230304153129
+111.251.208.58 1 1 5153 20230305163159
+103.195.201.79 0 1 75900 
+60.223.123.102 1 1 5153 20230303094817
+199.244.88.220 1 1 5153 20230301185537
+185.48.9.5 0 1 3096948 
+87.236.176.239 1 1 5153 20230322155744
+47.243.206.127 2 2 0 20230302223413
+171.113.21.204 1 1 5153 20230302205250
+132.154.38.51 0 1 75900 
+46.105.107.231 1 1 5153 20230304203221
+20.185.247.220 1 1 19103 20230304045121
+44.233.220.227 1 1 5153 20230303102400
+223.190.91.71 0 1 75900 
+131.226.2.65 1 1 5153 20230301060100
+35.88.103.77 1 1 5153 20230306162509
+117.98.76.39 0 1 75900 
+64.124.8.49 1 1 3772 20230305064830
+107.167.39.74 3 3 15459 20230306053329
+47.31.184.120 0 1 75900 
+20.10.16.124 1 1 5153 20230303031605
+209.141.51.222 0 1 789 
+122.177.107.100 0 1 75900 
+198.235.24.139 1 1 19103 20230321143755
+193.235.141.164 2 2 10306 20230302170225
+180.190.116.24 2 2 38206 20230302133931
+152.58.185.56 0 3 43128 
+121.6.93.228 2 2 38206 20230306184339
+122.164.82.172 0 1 75900 
+131.153.240.162 1 1 5153 20230306045626
+104.222.46.13 1 1 5153 20230303224424
+88.202.178.101 1 1 5153 20230303113234
+34.222.165.112 1 1 5153 20230306162511
+167.248.133.190 2 2 10306 20230303071415
+47.31.176.152 0 1 75900 
+223.188.131.87 0 1 75900 
+122.176.195.234 0 1 75900 
+103.141.116.168 0 1 1844139 
+209.141.55.120 0 1 3747 
+116.75.205.241 0 1 75900 
+42.83.147.54 1 1 5153 20230309160356
+172.121.222.232 1 1 12212 20230303224425
+79.175.145.122 2 2 10306 20230303113443
+49.36.188.21 0 1 75900 
+157.37.154.239 0 1 75900 
+209.141.36.112 0 1 867 
+82.145.215.206 1 1 5153 20230301030912
+34.215.61.1 1 1 5153 20230301164608
+49.36.18.43 0 1 75900 
+119.126.158.91 1 1 19103 20230306053544
+64.124.8.36 2 2 8935 20230306174711
+209.141.35.128 1 1 5153 20230327100033
+64.124.8.50 2 2 7283 20230303062602
+35.89.249.149 1 1 5153 20230306162532
+180.150.255.65 0 1 249592 
+173.255.174.5 1 1 5153 20230304133032
+203.146.105.132 0 1 28323 
+209.141.49.169 0 1 169254 
+60.223.133.86 1 1 5153 20230303170135
+138.199.19.185 1 1 19103 20230302012557
+52.24.33.243 1 1 0 20230302060933
+185.181.60.189 1 1 5153 20230304121819
+198.235.24.33 1 1 19103 20230310090413
+162.142.125.8 2 2 10306 20230303153040
+137.226.113.44 1 1 5153 20230303152845
+223.188.237.251 0 1 75900 
+104.194.196.44 1 1 5153 20230303224424
+72.55.136.154 3 3 57309 20230302060703
+23.236.182.83 1 1 5153 20230302175139
+36.226.219.247 1 1 5153 20230305080835
+122.161.51.21 0 1 75900 
+59.115.155.233 2 2 10306 20230307050307
+27.57.141.106 0 1 194152 
+106.196.65.158 0 1 75900 
+20.163.67.84 1 1 19103 20230304102702
+172.121.219.65 3 3 14843 20230303235149
+81.22.44.145 0 1 552256 
+68.171.212.2 2 2 10306 20230303060419
+172.121.222.217 3 3 15459 20230303235149
+64.124.8.51 1 1 4298 20230306155330
+103.87.57.127 0 1 75900 
+54.175.215.55 1 1 19103 20230304032059
+54.184.41.172 1 1 5153 20230306162546
+193.235.141.152 2 2 10306 20230305070448
+185.187.170.153 2 2 10306 20230307055221
+68.252.130.7 1 1 19103 20230301154056
+143.198.204.24 2 2 38206 20230306043136
+52.207.242.154 1 1 19103 20230302054652
+45.5.65.240 3 3 36743 20230303235214
+142.54.224.196 1 1 0 20230304010944
+34.214.116.104 1 1 0 20230303064223
+64.124.8.35 1 1 4206 20230306111843
+49.36.238.219 0 1 75900 
+109.252.177.172 1 1 19103 20230304075210
+209.141.34.187 1 2 48010 20230311082956
+35.88.115.198 1 1 5153 20230301164533
+205.185.121.69 2 2 10306 20230327100049
+54.191.52.250 2 2 0 20230307002345
+35.92.53.191 1 1 5153 20230301165012
+157.35.18.200 0 1 75900 
+205.185.116.89 2 3 15229 20230318131652
+83.7.149.222 0 1 3096948 
+130.255.166.97 1 1 5153 20230302154354
+45.5.67.217 1 1 5153 20230303224424
+69.167.6.182 2 2 0 20230306113804
+54.212.39.231 1 1 0 20230305132727
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20230301 46 69 13462425 9
+20230302 83 204 13463320 19
+20230303 60 145 11492609 23
+20230304 37 179 10110273 18
+20230305 31 152 10044970 11
+20230306 48 199 24463981 19
+20230307 8 38 2258439 5
+20230308 27 27 106155 1
+20230309 1 1 5153 1
+20230310 1 1 19103 1
+20230311 1 1 5153 1
+20230318 2 2 10306 1
+20230321 1 1 19103 1
+20230322 1 1 5153 1
+20230327 3 9 237896 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 4
+5mn-15mn 3
+30mn-1h 2
+0s-30s 102
+15mn-30mn 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/ 128 1045542 99 83
+/photo-gallery.php 70 221340 1 2
+/resources/front-end/webfonts/icomoon3c1f3c1f.ttf 21 7594080 0 7
+/resources/front-end/webfonts/fa-brands-400.woff2 21 1144248 0 0
+/resources/front-end/webfonts/fa-solid-900.woff2 21 843108 0 1
+/about-us.php 12 42132 1 4
+/faculty-working-group.php 12 56880 2 2
+/events.php 12 50472 5 4
+/mision.php 9 33948 3 1
+/index.php 8 41224 0 2
+/our-team.php 5 22685 0 1
+/press-release.php 5 13655 0 2
+/videos-gallery.php 4 10920 0 1
+/international-conference.php 4 14336 0 0
+/Student-team.php 3 12894 1 1
+/resources/front-end/webfonts/fa-regular-400.woff2 3 36720 0 0
+/our-logo.php 3 10224 0 0
+/vision.php 2 7806 0 0
+/objective.php 2 5480 0 0
+/advisory-board-members.php 2 9578 0 0
+/international-day-of-drr.php 1 3667 1 1
+/national-webinar.php 1 3782 0 1
+/photo-gallery.php/sitemap.xml 1 3162 0 0
+END_SIDER

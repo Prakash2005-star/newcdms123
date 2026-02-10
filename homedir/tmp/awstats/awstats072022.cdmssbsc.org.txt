@@ -1,0 +1,271 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202207 will be lost/reset.
+# Last config file used to build this data file was /home2/cdmssbsc/tmp/awstats/awstats.cdmssbsc.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2677                
+POS_VISITOR 6507                
+POS_DAY 6914                
+POS_DOMAIN 3325                
+POS_LOGIN 3551                
+POS_ROBOT 3706                
+POS_WORMS 3838                
+POS_EMAILSENDER 3969                
+POS_EMAILRECEIVER 4112                
+POS_SESSION 7014                
+POS_SIDER 7170                
+POS_FILETYPES 4247                
+POS_DOWNLOADS 4347                
+POS_OS 4395                
+POS_BROWSER 4526                
+POS_SCREENSIZE 4686                
+POS_UNKNOWNREFERER 4760                
+POS_UNKNOWNREFERERBROWSER 4988                
+POS_ORIGIN 5108                
+POS_SEREFERRALS 5242                
+POS_PAGEREFS 5386                
+POS_SEARCHWORDS 5869                
+POS_KEYWORDS 6021                
+POS_MISC 2340                
+POS_ERRORS 6080                
+POS_CLUSTER 3407                
+POS_SIDER_404 6198                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220801012942 60 15376 12871287832307
+FirstTime 0
+LastTime 20220731220607
+LastUpdate 20220801123604 60 0 59 0 0
+TotalVisits 9                   
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 37 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 576 52 54 11525
+1 4 4 348 284 465 104612
+2 0 0 0 68 76 16143
+3 0 0 0 35 43 8938
+4 0 0 0 24 26 4620
+5 0 0 0 33 40 7283
+6 0 0 0 51 57 11023
+7 0 0 0 111 131 25022
+8 0 0 0 44 99 7907
+9 0 0 0 96 169 7297
+10 0 0 0 53 163 7343
+11 0 0 0 151 277 29375
+12 0 0 0 40 154 7582
+13 1 1 7618 45 157 6503
+14 0 0 0 36 107 4530
+15 2 2 15383 74 139 14673
+16 0 0 0 121 189 28084
+17 0 0 0 137 189 27250
+18 0 0 0 56 115 11357
+19 10 10 0 59 101 7394
+20 0 0 0 64 116 11825
+21 0 0 0 53 109 8243
+22 9 9 39033 74 108 14773
+23 0 0 0 35 41 8319
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 35 35 62958
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+cgi 22 62034 0 0
+Unknown 13 924 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+androidnougat 9 9
+Unknown 13 13
+macosx10 2 2
+win10 10 10
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+Unknown 9 9
+msie11.0 1 1
+mozilla 4 4
+chrome74.0.3729.169 10 10
+chrome39.0.2171.95 2 2
+chrome60.0.3112.107 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20220723010748
+Cpanel-HTTP-Client/1.0 20220723004349
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20220723004349
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 0 0
+From3 10 10
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://mail.cdmssbsc.org/bk 1 1
+http://mail.cdmssbsc.org/bc 1 1
+http://mail.cdmssbsc.org/home 1 1
+http://mail.cdmssbsc.org/new 1 1
+http://mail.cdmssbsc.org/wp 1 1
+http://mail.cdmssbsc.org/old 1 1
+http://mail.cdmssbsc.org/backup 1 1
+http://mail.cdmssbsc.org 1 1
+http://mail.cdmssbsc.org/wordpress 1 1
+http://mail.cdmssbsc.org/main 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+406 493 73676
+302 2535 304810
+409 60 4980
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+173.212.231.5 10 10 0 20220731194259
+20.118.134.84 9 9 39033 20220731220607
+162.215.252.234 9 9 576 20220723004349
+107.182.129.12 2 2 15383 20220731154931
+54.203.72.221 1 1 87 20220723010748
+18.117.92.172 1 1 87 20220723010748
+64.78.149.164 1 1 87 20220723010748
+35.194.93.63 1 1 7618 20220731134309
+3.123.231.85 1 1 87 20220723010748
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20220723 13 13 924 5
+20220731 22 22 62034 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 8
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/cgi-sys/suspendedpage.cgi 22 62034 4 4
+/.well-known/acme-challenge/ZdycV2PDgYlZC3YJaZx6xKDGQ0SmVIcosQVdJVlihIo 4 348 4 4
+/.well-known/acme-challenge/-4ZMD0NXA8-H5YG5J562RS_N-AH285YF 1 64 0 1
+/.well-known/acme-challenge/R7ONPIPU4QR_JTN8G4K-2K328DZXFTZP 1 64 0 0
+/.well-known/acme-challenge/UU9UX_TM5BQNYY1TAFA3UH26JK227SON 1 64 0 0
+/.well-known/acme-challenge/D6HMK7N25CIP3XP2NK7XM3TYBOWC6U52 1 64 0 0
+/.well-known/acme-challenge/ARNNN7QL66ZFHP6PR9JUPN_W07-VHVDP 1 64 1 0
+/.well-known/acme-challenge/7T88HYGF1H4S6RABFSCD01HPM4--U3-Y 1 64 0 0
+/.well-known/acme-challenge/ATVWN1PEBHB-GOP1MTPTIHDNP4M26UE_ 1 64 0 0
+/.well-known/acme-challenge/E2FSBBN0HSQ_-9YG6BQ_6YGQL9UPUH2Q 1 64 0 0
+/.well-known/acme-challenge/A-9FYFOW8MXTFZ2-2YQ7L-HAKGMW08G0 1 64 0 0
+END_SIDER

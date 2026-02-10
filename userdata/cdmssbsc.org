@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/cdmssbsc.org
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/cdmssbsc.org-bytes_log
+documentroot: /home2/cdmssbsc/public_html
+group: cdmssbsc
+hascgi: 1
+homedir: /home2/cdmssbsc
+ip: 162.215.252.246
+owner: bagwars1
+phpopenbasedirprotect: 1
+phpversion: ea-php80
+port: 80
+scriptalias: 
+  - 
+    path: /home2/cdmssbsc/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@cdmssbsc.org
+serveralias: mail.cdmssbsc.org www.cdmssbsc.org
+servername: cdmssbsc.org
+usecanonicalname: 'Off'
+user: cdmssbsc

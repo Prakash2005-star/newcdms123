@@ -1,0 +1,2168 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202301 will be lost/reset.
+# Last config file used to build this data file was /home2/cdmssbsc/tmp/awstats/ssl/awstats.cdmssbsc.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2696                
+POS_VISITOR 41623               
+POS_DAY 66541               
+POS_DOMAIN 3653                
+POS_LOGIN 4396                
+POS_ROBOT 4551                
+POS_WORMS 5571                
+POS_EMAILSENDER 5702                
+POS_EMAILRECEIVER 5845                
+POS_SESSION 67454               
+POS_SIDER 67657               
+POS_FILETYPES 5980                
+POS_DOWNLOADS 6317                
+POS_OS 7141                
+POS_BROWSER 7674                
+POS_SCREENSIZE 10925               
+POS_UNKNOWNREFERER 10999               
+POS_UNKNOWNREFERERBROWSER 11995               
+POS_ORIGIN 12627               
+POS_SEREFERRALS 12772               
+POS_PAGEREFS 13001               
+POS_SEARCHWORDS 13629               
+POS_KEYWORDS 13821               
+POS_MISC 2360                
+POS_ERRORS 13922               
+POS_CLUSTER 4252                
+POS_SIDER_404 14116               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230201000007 280 78885 10549951404775
+FirstTime 20230101004428
+LastTime 20230131224442
+LastUpdate 20230201122943 280 0 279 0 0
+TotalVisits 638                 
+TotalUnique 553                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 666                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 7 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 89 273 17564423 139 225 4239250
+1 41 95 10435484 158 293 7113857
+2 29 66 4004712 131 296 6695362
+3 32 144 14315476 598 900 10520920
+4 37 173 18470330 135 316 18638774
+5 122 480 50281733 177 302 5241442
+6 82 383 27996246 124 194 1948900
+7 58 348 30286381 126 194 5209441
+8 34 190 16306079 120 181 4530088
+9 85 348 25236512 239 291 694119
+10 40 219 15887982 102 157 12503753
+11 74 324 16327089 103 186 11189083
+12 110 500 46868732 150 257 8440568
+13 105 528 30089610 60 140 6451708
+14 70 381 30099335 262 383 9176502
+15 50 253 26232980 85 249 6461657
+16 177 543 30897605 154 323 7546605
+17 62 299 24013087 92 236 2977910
+18 75 335 36019465 117 228 9790245
+19 118 197 5899092 158 346 11806458
+20 65 285 34715236 96 215 7500250
+21 61 198 14452309 115 230 7880337
+22 53 172 14678014 162 277 10031090
+23 29 123 7347517 66 145 3641202
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 37
+us 803 2782 184449582
+in 573 3217 302868513
+cn 118 342 16675638
+ca 49 197 17263569
+ru 32 34 3929564
+gb 26 81 9468931
+tw 10 10 51530
+de 10 10 74277
+pt 6 36 2253286
+jp 6 6 30918
+ph 6 6 114618
+cz 5 5 95515
+pl 5 5 25765
+ba 4 34 2242980
+fr 4 4 76412
+ua 4 4 76412
+be 4 4 20612
+se 3 3 15459
+au 3 3 43359
+gr 3 3 13890
+rs 2 2 38206
+mu 2 4 3587330
+tr 2 2 38206
+hk 2 24 647823
+sa 2 2 10306
+ir 1 1 5153
+np 0 1 96637
+kz 1 1 5153
+cl 2 2 38206
+eu 2 2 30550
+ma 1 20 486347
+it 1 1 19103
+ie 1 1 19103
+sc 1 4 133787
+kr 1 1 0
+hn 1 1 5153
+zz 2 2 10306
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+Googlebot/ 1264 42393668 20230131230147 0
+bingbot/ 710 39385178 20230130193622 0
+bingpreview 171 21176956 20230130195159 0
+Konqueror/ 100 506122 20230130055722 21
+crawl 90 353407 20230131051101 0
+Applebot/ 71 32006241 20230131161027 0
+aiHitBot/ 66 2369253 20230116055553 0
+(firefox/)([0-9]\.|[0-1][0]\.) 61 323130 20230131142958 0
+bot[\s_+:,\.\;\/\\-] 41 13350172 20230131082254 0
+Googlebot\-Image/ 38 12928020 20230129130203 0
+Go\-http\-client/ 36 46377 20230131220820 0
+YandexBot/ 30 2206169 20230131030932 0
+seek 27 388974 20230115055552 0
+unknown 23 598 20230122003356 23
+no_user_agent 20 360153 20230129232557 0
+MojeekBot 11 41495 20230124222144 0
+DuckDuckGo\-Favicons\-Bot/ 6 30918 20230128111557 0
+Baiduspider/ 6 30918 20230119224033 0
+facebookexternalhit/ 6 166440 20230124150500 0
+Dalvik/ 5 4233342 20230128143934 0
+curl 2 24256 20230131221606 0
+java 1 3096948 20230112001823 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+jpeg 409 110603057 0 0
+pdf 39 42462237 0 0
+ttf 144 54677376 0 0
+png 350 93087395 0 0
+gif 109 350060 0 0
+jpg 1265 158558802 0 0
+woff2 289 13569668 0 0
+woff 2 435888 0 0
+html 733 5938013 0 0
+css 1931 24604946 0 0
+js 1056 38340237 0 0
+php 528 2307379 0 0
+Unknown 2 27141 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 16
+/conference/AbstractVolume_CDMS_compressed.pdf 20 2 65402190
+/conference/International-Conference-Brochure-CDMS.pdf 12 0 22129668
+/events/CDMS-Tarining/Feb%20Trainingcdms.pdf 11 0 6074816
+/conference/Programme_Schedule_CDMS.pdf 10 0 9550370
+/conference/knowledge-partners.pdf 8 0 6304800
+/events/CDMS-Tarining/CDMS%20Training%20Brochure.pdf 8 0 4148288
+/conference/BRIEF-PROGRAMME-SCHEDULE.pdf 8 0 4392512
+/conference/Speakers.pdf 8 0 5001384
+/conference/about.pdf 7 0 367724
+/conference/advisory.pdf 7 0 504847
+/conference/call-paper.pdf 7 0 315476
+/conference/BEST%20PAPER.pdf 7 0 3777466
+/conference/guidelines.pdf 6 0 294240
+/events/CDMS%20Team%202022-23-1.pdf 6 0 165918
+/conference/International%20Conference%20CDMS.pdf 5 0 8942560
+/conference/organisers.pdf 1 0 56550
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 30
+win8 3 3
+win7 316 153
+macosx6 2 2
+Unknown 102 71
+winlong 3 3
+android10 352 58
+macosx8 1 1
+ios_ipad 1 0
+macosx15 660 166
+linuxubuntu 14 14
+ios_iphone 154 29
+androidjellybean 36 6
+androidpie 169 40
+androidnougat 86 18
+androidmarshmallow 54 7
+linux 524 175
+macosx 13 13
+androidlollipop 5 4
+macosx10 2 2
+macosx7 1 1
+androidkitkat 4 4
+androidoreo 327 44
+win8.1 35 35
+winxp 18 18
+androidfroyo 6 6
+macosx14 850 100
+macosx11 14 14
+macosx9 1 1
+win10 1689 475
+android 1417 235
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 149
+chrome47.0.2526.106 2 2
+chrome60.0.3112.90 6 6
+chrome38.0.9228.439 1 1
+firefox40.0 1 1
+chrome103.0.5060.114 3 3
+chrome70.0.3538.110 3 3
+chrome68.0.3440.106 1 1
+chrome43.0.2357.125 30 30
+chrome107.0.0.0 391 70
+chrome31.0.7367.673 1 1
+chrome56.0.2924.76 16 16
+chrome109.0.0.0 1006 193
+safari15.1 1 1
+firefox105.0 4 4
+msie9.0 13 13
+msie7.0 2 2
+chrome26.0.1410.65 1 1
+chrome38.0.1025.166 36 6
+chrome87.0.4280.141 1 0
+chrome52.0.2732.98 1 1
+chrome79.0.3945.79 34 4
+chrome69.0.3497.106 25 5
+chrome97.0.4692.98 1 0
+chrome94.0.4606.71 32 4
+chrome63.0.3239.84 3 3
+safari15.6.1 1 0
+msie6.0 8 8
+chrome84.0.4147.105 2 2
+chrome60.0.3112.107 1 1
+firefox23.0 1 1
+chrome77.0.3865.116 1 0
+chrome108.0.5351.0 140 25
+chrome94.0.4606.85 51 9
+chrome60.0.3112.113 2 2
+chrome24.0.1284.0.3.742.3 1 1
+firefox92.0 139 19
+chrome83.0.4103.106 33 7
+chrome57.0.2987.133 2 2
+chrome103.0.5060.129 1 0
+chrome71.0.3578.98 2 2
+iphone 1 1
+safari13.0.3 4 4
+chrome86.0.4240.198 13 13
+chrome95.0.4638.69 5 5
+chrome100.0.4896.127 51 6
+firefox108.0 27 7
+chrome99.0.4844.88 3 0
+chrome59.0.3071.125 45 11
+chrome97.0.4692.99 850 100
+chrome80.0.3987.149 19 19
+chrome39.0.5579.460 1 1
+chrome108.0.5359.128 59 7
+edge13 67 67
+chrome97.0.4692.87 1 0
+chrome103.0.5060.71 1 0
+chrome13.0.782.112 1 1
+safari5.1 2 2
+firefox58.0 5 5
+chrome79.0.3945.88 1 1
+chrome74.0.3729.169 8 8
+chrome87.0.4280.101 2 0
+firefox40.1 23 23
+safari16.0 1 0
+mozilla 103 73
+chrome39.0.2171.95 2 2
+chrome36.0.9377.777 1 1
+opera36.0.2130.65 6 6
+safari16.2 1 0
+chrome83.0.4103.97 80 80
+chrome78.0.3904.108 14 14
+chrome37.0.0981.676 1 1
+real 1 0
+chrome36.0.0902.804 1 1
+chrome89.0.4389.114 9 9
+chrome59.0.3071.115 1 1
+chrome109.0.5414.85 8 0
+chrome104.0.0.0 36 8
+chrome91.0.4472.114 81 12
+chrome80.0.3987.119 1 1
+android 16 12
+firefox94.0 4 4
+firefox43.0 30 30
+chrome107.0.5304.141 2 0
+chrome103.0.5060.134 2 2
+chrome108.0.0.0 2041 341
+chrome63.0.3239.132 1 1
+chrome100.0.4758.11 1 1
+Unknown 33 32
+chrome91.0.4472.101 1 0
+chrome105.0.0.0 47 17
+chrome29.0.1547.62 1 1
+chrome81.0.4044.92 31 1
+chrome108.0.5359.79 2 0
+chrome87.0.4280.88 253 33
+chrome95.0.4638.74 48 6
+safari15.6.4 1 0
+chrome101.0.0.0 1 0
+chrome108.0.5359.98 34 4
+safari16.1 86 11
+chrome80.0.3987.99 90 26
+chrome104.0.5112.101 34 4
+chrome90.0.4430.85 2 2
+chrome74.0.3729.136 1 0
+firefox109.0 37 7
+chrome38.0.5216.156 1 1
+firefox63.0 1 1
+chrome57.0.2987.108 1 1
+firefox102.0 2 1
+firefox100.0 2 2
+chrome96.0.4664.104 66 8
+firefox104.0 11 9
+firefox47.0 9 9
+edge17 1 1
+chrome74.0.3729.186 1 0
+chrome22.0.1207.1 1 1
+opera89.0.4447.51 1 1
+chrome32.0.3870.332 1 1
+safari 59 12
+chrome79.0 2 2
+chrome27.0.1500.55 1 1
+msie8.0 1 1
+chrome100.0.4895.86 1 1
+chrome96.0.4664.110 22 22
+chrome32.0.1309.784 1 1
+chrome88.0.4240.193 2 2
+chrome95.0.4638.50 1 0
+msie11.0 8 8
+chrome49.0.2623.112 8 2
+chrome83.0.4103.61 9 3
+firefox103.0 1 1
+chrome100.0.4896.79 41 11
+chrome37.0.0.0 4 4
+chrome36.0.1985.125 1 1
+firefox61.0 1 1
+firefox93.0 31 31
+chrome106.0.5249.126 2 0
+safari9.0.2 2 2
+chrome103.0.0.0 75 14
+chrome57 4 4
+firefox73.0 1 1
+chrome31.0.4283.266 1 1
+msie10.0 4 4
+chrome80.0.3987.162 1 1
+chrome99.0.4859.172 1 1
+chrome30.0.1599.101 1 1
+chrome79.0.3945.130 22 22
+chrome87.0.4280.66 3 3
+chrome55.0.2883.87 4 4
+chrome106.0.0.0 111 25
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131024250
+ALittle_Client 20230130095058
+test 20230131010043
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/http;__http://researchscan.comsys.rwth-aachen.de) 20230127143024
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230116193807
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230130143535
+Turnitin_(https://bit.ly/2UvnfoQ) 20230111040814
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230113064827
+WhatsApp/2.22.24.78_A 20230103130813
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_https://domini.cat/catexplorador/) 20230112171231
+wp_is_mobile 20230108141651
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131024250
+ALittle_Client 20230130095058
+Turnitin_(https://bit.ly/2UvnfoQ) 20230111040814
+WhatsApp/2.22.24.78_A 20230103130813
+test 20230131010043
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_https://domini.cat/catexplorador/) 20230112171231
+wp_is_mobile 20230108141651
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 635 929
+From1 1 1
+From2 98 202
+From3 84 114
+From4 880 5613
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_bing_com 3 6
+google_com 1 3
+baidu 8 8
+www_google_co_in 0 6
+www_google_com 86 179
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+https://www.sbsc.in 40 40
+https://www.ipbuf.com/static/pdns/ipv4/www.cdmssbsc.org/index.html 28 28
+http://mail.cdmssbsc.org 4 4
+http://162.215.252.246:80 3 3
+https://www.ipbuf.com/static/pdns/ipv4/cdmssbsc.org/index.html 3 3
+https://mail.cdmssbsc.org/resources/front-end/css/fontawesome-all.css 2 2
+https://www.whole-search.com/cache/Google/cdmssbsc.org 2 2
+https://mail.cdmssbsc.org/resources/front-end/css/icomoon.css 1 1
+https://www.sbsc.in 1 1
+https://mail.cdmssbsc.org 0 30
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//www.cdmssbsc.org/about-us.php 3
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//www.cdmssbsc.org/about-us.php 3
+https 3
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+409 146 12035
+404 2237 578631
+400 141 5512
+206 35 3960732
+421 1 322
+403 5 1775
+406 845 190292
+302 1 230
+401 242 12207
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 901
+/oldsite/wp-admin/install.php 2 -
+/bak/bak.tar.gz 2 -
+/wp-admin/admin-ajax.php 10 -
+/home 6 http://mail.cdmssbsc.org/home
+/data/1.php 1 https://cdmssbsc.org/data/1.php
+/data/a.php 1 https://cdmssbsc.org/data/a.php
+/backup.sql.zip 2 -
+/backups/website.gz 2 -
+/backup/directory.rar 2 -
+/old/website.rar 2 -
+/templates/beez3/alfacgiapi 1 www.bing.com
+/bak/website.tar.gz 1 -
+/wp/ 1 -
+/templets/a.php 1 https://cdmssbsc.org/templets/a.php
+/admin/controller/extension/ALFA_DATA/alfacgiapi/ 2 -
+/xindex.php 1 www.bing.com
+/bak/backup.tar.gz 2 -
+/s_ne.php 1 www.bing.com
+/sites/default/files/ALFA_DATA 1 www.bing.com
+/bak/config.js 2 -
+/blog/wp-admin/setup-config.php 2 -
+/templates/beez3/index.php 1 www.bing.com
+/wp-content/plugins/Update/ 2 -
+/back/cdmssbsc.org.tar.gz 2 -
+/bak/backup.zip 2 -
+/php-ofc-library/ofc_upload_image.php 1 -
+/restore/wallet.zip 2 -
+/dz.php 2 -
+/adminer/ 1 -
+/adminer.php 1 -
+/back/application.zip 1 -
+/shells.php 1 www.bing.com
+//xmlrpc.php 3 -
+/admin/content/sitetree/ 1 -
+/config.js 2 -
+/%20https:/instagram.com/cdms_sbsc 1 https://www.cdmssbsc.org/disaster-management-studies-events.php
+/sites/default/files/cgialfa 1 www.bing.com
+/0/license.txt 1 -
+/admin/adminer.php 1 -
+/backups/cdmssbsc.org.gz 2 -
+/wp-content/themes/pridmag/ 2 -
+/uploads/nginx.php 1 https://cdmssbsc.org/uploads/nginx.php
+/api/search 1 -
+/asset/kcfinder/upload.php 1 -
+/adminer-4.6.2.php 1 -
+/back/www.gz 1 -
+/backups/Archive.zip 2 -
+/adminer-4.7.4/ 1 -
+/backup/directory.tar.gz 2 -
+/filemanager/dialog.php 1 -
+/backup/directory.tar 2 -
+/bak/bak.tar 2 -
+/xmrlpc.php 1 www.bing.com
+/license.txt 2 -
+/wordpress/wp-admin/install.php 2 -
+/back/www.zip 2 -
+/old/full_backup.zip 2 -
+/bak/wallet.dat 2 -
+/templates/beez3/cgialfa 1 www.bing.com
+/wp-admin/alfacgiapi 1 www.bing.com
+/20/license.txt 1 -
+/uploads/newfile.php 1 https://cdmssbsc.org/uploads/newfile.php
+/indoxploit.php 2 -
+/back/sftp-config.json 4 -
+/back/cdmssbsc.org.gz 2 -
+/@/license.txt 1 -
+/manager/adminer.php 1 -
+/bak/index.zip 1 -
+/backup/backup.tar 2 -
+/backups/backup.tar 2 -
+/upload/a.php 1 https://cdmssbsc.org/upload/a.php
+/wp-content/uploads/ 2 -
+/backup/bak.rar 1 -
+/old/directory.gz 2 -
+/bak/directory.tar.gz 2 -
+/m/newfile.php 1 https://cdmssbsc.org/m/newfile.php
+/back/www.tar.gz 2 -
+/backups/config.json 2 -
+/uploads/x.php 1 https://cdmssbsc.org/uploads/x.php
+/backups/credentials.txt 3 -
+/template/nginx.php 1 https://cdmssbsc.org/template/nginx.php
+/bak/cdmssbsc.org.gz 1 -
+/old/wp-json/wp/v2/users 5 -
+/old/website.tar 2 -
+/adminer-4.8.0-en.php 1 -
+/backup/latest.zip 2 -
+/restore/directory.gz 2 -
+/adminer-4.7.4-mysql.php 1 -
+/wp-admin/fw.php 2 -
+/old/www.zip 2 -
+/wp-content/themes/pridmag/db.php 2 -
+/restore/index.zip 2 -
+/old/archive.zip 2 -
+/wp-content/themes/wp-pridmag/init.php 2 -
+/wp-content/wso.php 2 -
+/wordpress/alfacgiapi/ 2 -
+/x.php 2 www.bing.com
+/backup/web.zip 2 -
+/backups/www.zip 2 -
+/old/www.gz 1 -
+/wp-content/export.php 1 www.bing.com
+/indo.php 2 -
+/demodata.php 1 https://cdmssbsc.org/demodata.php
+/cdmssbsc.org.zip 2 -
+/alfacgiapi/perl.alfa 2 www.google.com
+/backup/wallet.dat 2 -
+/backups/wallet.dat 2 -
+/backups/public_html.gz 2 -
+/admin/controller/extension/alfacgiapi/ 2 -
+/adminer-4.7.8.php 1 -
+/adminer-4.7.3.php 1 -
+/old/public_html.zip 2 -
+/old/website.zip 2 -
+/adminer-4.7.5-mysql.php 1 -
+/new-index.php 2 -
+/back/backup.sql.zip 2 -
+/wp-content/plugins/backup_index.php 1 www.bing.com
+/legion.php 1 www.bing.com
+/phpmyadmin.php 1 -
+/wp-content/plugins/ubh/up.php 3 www.bing.com
+/wp/wp-includes/wp-class.php 2 -
+/baindex.php 2 -
+/backups/www.tar 1 -
+/bak/bak.rar 2 -
+/uploads/admin.php 1 https://cdmssbsc.org/uploads/admin.php
+/wso.php 3 www.bing.com
+/wp-admin/css/ 2 binance.com
+/sftp-config.json 7 -
+/blog/ 1 -
+/m.php 2 -
+/shop/license.txt 1 -
+/chart/php-ofc-library/ofc_upload_image.php 1 -
+/restore/www.tar.gz 2 -
+/back/bak.rar 2 -
+/gank.php.PhP 1 www.bing.com
+/bak/directory.tar 2 -
+/1/license.txt 2 -
+/www.rar 2 -
+/300/license.txt 1 -
+/wp-includes/css/buttons.css 2 http://www.cdmssbsc.org//wp-includes/css/buttons.css
+/templets/nginx.php 1 https://cdmssbsc.org/templets/nginx.php
+/bak.gz 2 -
+/backups/directory.rar 1 -
+/backup/backup.tar.gz 2 -
+/assets/scripts/filemanager/dialog.php 1 -
+/wallet.dat 1 -
+/old/config.json 2 -
+/adminer-4.7.1.php 1 -
+/wp 7 http://mail.cdmssbsc.org/wp
+/a/license.txt 1 -
+/blog/wp-json/wp/v2/users 5 -
+/config.json 3 -
+/wp-content/alfacgiapi 1 www.bing.com
+/shell.php 3 www.bing.com
+/archive.zip 2 -
+/backup/bak.tar 2 -
+/backup/wp-admin/setup-config.php 2 -
+/backup 6 http://mail.cdmssbsc.org/backup
+/adminer-4.6.3-mysql-en.php 1 -
+/backup/public_html.tar.gz 2 -
+/backup.gz 2 -
+/restore/website.rar 2 -
+/back/.well-known.zip 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/backups/bak.gz 2 -
+/debug/default/view 1 -
+/backups/web.zip 2 -
+/admin/ALFA_DATA/alfacgiapi/ 2 -
+/backup/cdmssbsc.org.rar 2 -
+/wp-content/plugins/ubh/ 4 -
+/_ignition/health-check/ 3 http://cdmssbsc.org/_ignition/health-check/
+/xleet-shell.php 1 www.google.com
+/old/public_html.tar 2 -
+/old/web.zip 2 -
+/template/a.php 1 https://cdmssbsc.org/template/a.php
+/apache.php 1 https://cdmssbsc.org/apache.php
+/backup.zip 2 -
+/3index.php 1 www.bing.com
+/backups/cdmssbsc.org.zip 2 -
+/bak/backup.sql.tar 2 -
+/lock360.php 1 www.bing.com
+/backup/application.zip 2 -
+/.remote 1 https://www.google.com/
+/backup/website.tar 2 -
+/blog 1 -
+/wp-2022.php 2 -
+/robots.txt 362 -
+/css/album.css 4 -
+/cdmssbsc.org.tar.gz 2 -
+/backups/website.tar.gz 1 -
+/m/1234.php 1 https://cdmssbsc.org/m/1234.php
+/backups/www.rar 2 -
+/mysql.php 1 -
+/backup/wallet.zip 2 -
+/install/apache.php 1 https://cdmssbsc.org/install/apache.php
+/wp-content/fw.php 2 -
+/103/license.txt 1 -
+/back/backup.sql.tar 2 -
+/autodiscover 1 https://www.google.com/
+/site/wp-admin/install.php 2 -
+/wp-2023.php 2 -
+/wp-content/db-cache.php 1 www.bing.com
+/uploads/apache.php 1 https://cdmssbsc.org/uploads/apache.php
+/wp-content/uploads/alfacgiapi 1 www.bing.com
+/backups/sftp-config.json 4 -
+/.vscode/sftp.json 4 -
+/Admin/license.txt 1 -
+/cms/wp-admin/setup-config.php 2 -
+/backups/bak.rar 2 -
+/1index.php 3 www.bing.com
+/back/website.gz 2 -
+/www.zip 2 -
+/backups/application.zip 2 -
+/bak/cdmssbsc.org.tar.gz 2 -
+/scripts/filemanager/dialog.php 1 -
+/backup/website.zip 2 -
+/admin/alfacgiapi/ 2 -
+/main 6 http://mail.cdmssbsc.org/main
+/wp-content/plugins/seoplugins/mar.php 9 www.google.com
+/__MACOSX.zip 2 -
+/adminer-4.7.7.php 1 -
+/a.php 2 www.bing.com
+/adminer-4.7.1-mysql-en.php 1 -
+/new/wp-admin/setup-config.php 2 -
+/backup/public_html.rar 2 -
+/wp-content/wso112233.php 1 www.google.com
+/templets/x.php 1 https://cdmssbsc.org/templets/x.php
+/bak/backup.sql.zip 1 -
+/bak/cdmssbsc.org.rar 2 -
+/telescope/requests 1 -
+/backups/www.gz 2 -
+/templets/newfile.php 1 https://cdmssbsc.org/templets/newfile.php
+/adminer-4.6.3/ 1 -
+/backups/backup.sql.zip 2 -
+/data/adminer.php 1 -
+/upload.php 3 www.bing.com
+/wp-2021.php 2 -
+/backup/cdmssbsc.org.tar.gz 2 -
+/radio.php 1 www.bing.com
+/public_html.tar.gz 2 -
+/wp-backup-sql-302.php 1 www.bing.com
+/site/alfacgiapi/ 2 -
+/old/public_html.tar.gz 2 -
+/xmlrpc.php 5 -
+/marijuana.php 4 -
+/www.tar.gz 2 -
+/wp-2020.php 2 -
+/wp-content/ALFA_DATA 1 www.bing.com
+/backups/backup.tar.gz 2 -
+/archives.php 1 www.bing.com
+/wp-content/themes/pridmag/mar.php 2 -
+/2003/license.txt 1 -
+/bak/backup.sql.gz 2 -
+/credentials.txt 4 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 -
+/old/Archive.zip 2 -
+/m/apache.php 1 https://cdmssbsc.org/m/apache.php
+/js/mage/cookies.js 1 -
+/bak/backup.rar 2 -
+/newfile.php 1 https://cdmssbsc.org/newfile.php
+/backups/website.tar 2 -
+/adminer-4.7.6.php 1 -
+/backup/website.gz 2 -
+/css.php 1 www.bing.com
+/tools/adminer.php 1 -
+/restore/.well-known.zip 2 -
+/Paiement/wp-admin/install.php 2 -
+/templets/apache.php 1 https://cdmssbsc.org/templets/apache.php
+/restore/archive.zip 2 -
+/international%20conference.php 1 -
+/admin/php-ofc-library/ofc_upload_image.php 1 -
+/m/a.php 1 https://cdmssbsc.org/m/a.php
+/assets/js/kcfinder/upload.php 1 -
+/wordpress 7 http://mail.cdmssbsc.org/wordpress
+/wordpress/wp-includes/wp-class.php 2 -
+/temp/license.txt 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 2 -
+/wp-booking.php 1 www.bing.com
+/backups/website.zip 2 -
+/back/archive.zip 2 -
+/restore/bak.tar.gz 2 -
+/template/admin.php 1 https://cdmssbsc.org/template/admin.php
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/bak/www.rar 1 -
+/test/ 1 -
+/adminer-4.7.5-en.php 1 -
+/backups/backup.rar 2 -
+/restore/cdmssbsc.org.tar.gz 2 -
+/100/license.txt 1 -
+/bak/public_html.rar 2 -
+/wp-content/plugins/sid/sidwso.php 1 www.google.com
+/3/license.txt 1 -
+/admin/controller/ALFA_DATA/alfacgiapi/ 2 -
+/adminer-4.7.7-mysql-en.php 1 -
+/install/admin.php 1 https://cdmssbsc.org/install/admin.php
+/indosec.php 2 -
+//feed/ 15 -
+/Alfa.php 2 -
+/wp/wp-includes/alfacgiapi/ 2 -
+/web/wp-admin/install.php 2 -
+/backups/bak.tar 2 -
+/old/latest.zip 2 -
+/back/bak.tar 2 -
+/m/nginx.php 1 https://cdmssbsc.org/m/nginx.php
+/assets/plugins/elfinder/elfinder.html 1 -
+/.well-known/ALFA_DATA 1 www.bing.com
+/1.php 4 www.bing.com
+/xxxss 8 -
+/back/backup.tar.gz 2 -
+/e/data/js/ajax.js 8 -
+/assets/js/fileupload/server/php/index.php 1 -
+/wp-json/wp/v2/users 5 -
+/backups/directory.tar 2 -
+/backup/bak.zip 2 -
+/templets/1.php 1 https://cdmssbsc.org/templets/1.php
+/m/x.php 1 https://cdmssbsc.org/m/x.php
+/wp-content/cgialfa 1 www.bing.com
+/backup/directory.gz 1 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/wp-blog.php 2 -
+/backup/bak.tar.gz 2 -
+/backup/backup.sql.gz 1 -
+/old/cdmssbsc.org.zip 2 -
+/adminer-4.6.3-mysql.php 1 -
+/old/wp-admin/setup-config.php 2 -
+/new/wp-json/wp/v2/users 5 -
+/old/backup.gz 2 -
+/restore/config.js 2 -
+/moduless.php 1 www.bing.com
+/backups/backup.sql.gz 2 -
+/backups/cdmssbsc.org.tar.gz 2 -
+/modules/mod_simplefileuploadv1.3/elements/ 2 -
+/backups/backup.gz 2 -
+/backups/bak.zip 2 -
+/backup/website.tar.gz 2 -
+/data/apache.php 1 https://cdmssbsc.org/data/apache.php
+/2000/license.txt 1 -
+/wp-config.txt 1 -
+/old/wp-admin/install.php 2 -
+/2004/license.txt 1 -
+/%20https:/www.youtube.com/channel/UCcTxOl9I_J4vuMQXD6y228Q/featured 1 https://www.cdmssbsc.org/
+/old-index.php 3 www.bing.com
+/alfacgiapi 1 www.bing.com
+/backups/full_backup.zip 2 -
+/cdmssbsc.org.rar 2 -
+/backup/config.json 2 -
+/wp-content/ALFA_DATA/alfacgiapi/ 2 -
+/template/1.php 1 https://cdmssbsc.org/template/1.php
+/directory.tar.gz 2 -
+/bak/backup.tar 2 -
+/backups/directory.zip 2 -
+/bak/wallet.zip 2 -
+/install/x.php 1 https://cdmssbsc.org/install/x.php
+/backup/credentials.txt 4 -
+/old/bak.zip 2 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/wp-content/themes/gaukingo/ 2 -
+/backups/directory.tar.gz 2 -
+/template/apache.php 1 https://cdmssbsc.org/template/apache.php
+/backups/backup.zip 2 -
+/old/directory.zip 2 -
+/backup/cdmssbsc.org.gz 2 -
+/2005/license.txt 1 -
+/About/license.txt 1 -
+/cgialfa 1 www.bing.com
+/config.php 1 www.bing.com
+/wp-content/themes/twentytwenty/ 2 -
+/restore/public_html.zip 2 -
+/back/Archive.zip 2 -
+/adminer-4.7.0-mysql.php 1 -
+/old/bak.gz 2 -
+/adminer-4.8.0-mysql.php 1 -
+/js/kcfinder/upload.php 1 -
+/back/web.zip 2 -
+/templets/admin.php 1 https://cdmssbsc.org/templets/admin.php
+/01/license.txt 1 -
+/install/newfile.php 1 https://cdmssbsc.org/install/newfile.php
+/sitemap.php 1 -
+/sandbox/wp-admin/install.php 2 -
+/backup.sql.tar 2 -
+/back/public_html.zip 2 -
+/m/admin.php 1 https://cdmssbsc.org/m/admin.php
+/login 1 -
+/bak/application.zip 2 -
+/assets/elfinder/elfinder.html 1 -
+/bak/www.tar.gz 2 -
+/backup/ 1 -
+/nginx.php 1 https://cdmssbsc.org/nginx.php
+/backup/archive.zip 2 -
+/2001/license.txt 1 -
+/website.gz 1 -
+/php.php 1 -
+/backup/www.gz 2 -
+/back/credentials.txt 4 -
+/back/backup.sql.gz 2 -
+/install/nginx.php 1 https://cdmssbsc.org/install/nginx.php
+/adminer-4.8.0-mysql-en.php 1 -
+/backups/backup.sql.tar 2 -
+/admin/index.php 3 -
+/template/newfile.php 1 https://cdmssbsc.org/template/newfile.php
+/restore/latest.zip 2 -
+/wp-includes/cgialfa 1 www.bing.com
+/ewebeditor/login_admin.asp 1 https://cdmssbsc.org/ewebeditor/login_admin.asp
+/old/sftp-config.json 4 -
+/old/credentials.txt 4 -
+/website.zip 2 -
+/Archive/license.txt 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/old/public_html.gz 2 -
+/alfa4.php 2 -
+/wp-admin/install.php 2 -
+/old/website.gz 2 -
+/wp-includes/images/css.php 1 www.bing.com
+/adminer-4.6.2-mysql-en.php 1 -
+/bak.tar 2 -
+/test/wp-admin/install.php 2 -
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 1 -
+/backup/website.rar 2 -
+/defau11.php 1 www.bing.com
+/backup/Archive.zip 2 -
+/backups/public_html.tar 1 -
+/data/demodata.phphttps://cdmssbsc.org/data/nginx.php 1 https://cdmssbsc.org/data/demodata.phphttps://cdmssbsc.org/data/nginx.php
+/simpla/ 1 -
+/upload/1.php 1 https://cdmssbsc.org/upload/1.php
+/blog/wp-class.php 2 -
+/backup.tar.gz 2 -
+/wp-signin.php 1 www.bing.com
+/old/.well-known.zip 2 -
+/adminer-4.8.0/ 1 -
+/.git/index 1 -
+/wp-plugins.php 1 www.bing.com
+/wp-includes/wso.php 2 -
+/old/directory.rar 1 -
+/template/x.php 1 https://cdmssbsc.org/template/x.php
+/backups/public_html.rar 2 -
+/defau1t.php 1 www.bing.com
+/wp-includes/alfacgiapi 1 www.bing.com
+/index.zip 2 -
+/upload/1234.php 1 https://cdmssbsc.org/upload/1234.php
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/bak/www.tar 1 -
+/wp-cc.php 1 -
+/wp-admin/setup-config.php 2 -
+/manager/ 1 -
+/sells.php 2 -
+/back/wallet.zip 2 -
+/old/www.tar.gz 1 -
+/00/license.txt 1 -
+/.well-known.zip 2 -
+/old/application.zip 2 -
+/restore/full_backup.zip 2 -
+/wp-admin/ALFA_DATA 1 www.bing.com
+/BlockCypher.log 2 -
+/back/public_html.tar 2 -
+/wp-content/themes/seotheme/mar.php 9 www.google.com
+/bak/public_html.gz 2 -
+/back/directory.zip 2 -
+/.git/config 2 -
+/wp-admin/admin-post.php 1 www.google.com
+/wp-content/mu-plugins/db-safe-mode.php 1 www.bing.com
+/bak/credentials.txt 4 -
+/restore/bak.zip 2 -
+/bak/sftp-config.json 4 -
+/back/public_html.tar.gz 2 -
+/templets/wdf.php 1 https://cdmssbsc.org/templets/wdf.php
+/back/cdmssbsc.org.zip 2 -
+/restore/backup.sql.gz 2 -
+/upload/apache.php 1 https://cdmssbsc.org/upload/apache.php
+/restore/backup.gz 1 -
+/wp-content/uploads/cgialfa 1 www.bing.com
+/template/1234.php 1 https://cdmssbsc.org/template/1234.php
+/backups/config.js 2 -
+/DeathShop.php 16 -
+/sites/default/files/alfacgiapi 1 www.bing.com
+/bak/website.gz 2 -
+/2006/license.txt 1 -
+/assets/plugins/kcfinder/upload.php 1 -
+/adminer-4.7.3-mysql.php 1 -
+/adminer-4.7.8-mysql.php 1 -
+/Public/home/js/check.js 3 -
+/wp-content/plugins/instabuilder2/cache/up.php 1 www.google.com
+/template/admins.php 1 https://cdmssbsc.org/template/admins.php
+/info.php 4 -
+/admin/filemanager/dialog.php 1 -
+/new/ 1 -
+/priv8.php 2 -
+/back/public_html.rar 2 -
+/adminer-4.7.5.php 1 -
+/uploads/a.php 1 https://cdmssbsc.org/uploads/a.php
+/wp-includes/ALFA_DATA 1 www.bing.com
+/wordpress/wp-includes/alfacgiapi/ 2 -
+/back/backup.zip 2 -
+/login.action 1 -
+/back/wallet.dat 2 -
+/bc 6 http://mail.cdmssbsc.org/bc
+/system_log.php 1 www.bing.com
+/wp-content/themes/seotheme/db.php 28 www.google.com
+/bak/.well-known.zip 2 -
+/install/admins.php 1 https://cdmssbsc.org/install/admins.php
+/backups/public_html.zip 1 -
+/data/x.php 1 https://cdmssbsc.org/data/x.php
+/wordpress/wp-json/wp/v2/users 5 -
+/wp-content/index.php 2 -
+/plugins/kcfinder/upload.php 1 -
+/03/license.txt 1 -
+/adminer-4.7.1/ 1 -
+/bak/directory.rar 2 -
+/restore/backup.zip 1 -
+/old/www.tar 1 -
+/about.php 3 www.bing.com
+/restore/directory.zip 2 -
+/back/directory.gz 2 -
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 1 -
+/test_404_page/ 1 -
+/backup/www.rar 2 -
+/wp-config.inc 1 -
+/images/ 2 -
+/wp-content/themes/seotheme/ 2 -
+/z.php 1 www.bing.com
+/bak.zip 2 -
+/test/wp-admin/setup-config.php 2 -
+/upload/admins.php 1 https://cdmssbsc.org/upload/admins.php
+/olux.php 1 www.bing.com
+/restore/backup.sql.tar 2 -
+/wp-content/plugins/wp-file-manager/lib/php/ 2 -
+/backups/latest.zip 2 -
+/upload/wdf.php 1 https://cdmssbsc.org/upload/wdf.php
+/s/634323e2235323e2531323e2236313/_/ 1 -
+/back/config.json 2 -
+/humans.txt 3 http://cdmssbsc.org/humans.txt
+/install/wdf.php 1 https://cdmssbsc.org/install/wdf.php
+/bak/bak.zip 2 -
+/m/wdf.php 1 https://cdmssbsc.org/m/wdf.php
+/admin/controller/extension/extension/ 2 -
+/old/wallet.zip 1 -
+/old/backup.tar 2 -
+/qindex.php 1 www.bing.com
+/adminer-4.7.7-en.php 1 -
+/1x1/license.txt 1 -
+/bak.tar.gz 2 -
+/adminer-4.7.1-mysql.php 1 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 -
+/ads.txt 5 http://cdmssbsc.org/ads.txt
+/bak/directory.zip 2 -
+/restore/public_html.rar 2 -
+/upload/admin.php 1 https://cdmssbsc.org/upload/admin.php
+/public_html.zip 2 -
+/adminer/adminer.php 1 -
+/wp-content/plugins/easy-wp-smtp/ 2 -
+/bak/bak.gz 2 -
+/Archive.zip 2 -
+/templates/beez3/ALFA_DATA 1 www.bing.com
+/2/license.txt 1 -
+/wp-content/alfacgiapi/ 2 -
+/doc.php 3 www.bing.com
+/restore/cdmssbsc.org.rar 2 -
+/admins.php 1 https://cdmssbsc.org/admins.php
+/restore/public_html.tar 1 -
+/adminer-4.7.8/ 1 -
+/wordpress/license.txt 1 -
+/wp-content/uploads/F0x.php 2 -
+/public_html.tar 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/wso.php 2 -
+/data/1234.php 1 https://cdmssbsc.org/data/1234.php
+/wp/wp-admin/install.php 2 -
+/assets/kcfinder/upload.php 1 -
+/wp-plain.php 1 www.google.com
+/directory.rar 2 -
+/back/directory.tar.gz 2 -
+/application.zip 2 -
+/typo3conf/ext/hi_surveystats/res/php-ofc-library/ofc_upload_image.php 1 -
+/backup/backup.zip 2 -
+/up.php 3 www.bing.com
+/wso112233.php 1 www.google.com
+/adminer-4.6.2-mysql.php 1 -
+/restore/application.zip 2 -
+/bk 6 http://mail.cdmssbsc.org/bk
+/back/website.zip 2 -
+/.well-known/cgialfa 1 www.bing.com
+/bala.php 1 www.google.com
+/backups/cdmssbsc.org.rar 2 -
+/restore/bak.rar 2 -
+/public/_ignition/health-check/ 3 http://cdmssbsc.org/public/_ignition/health-check/
+/old/public_html.rar 2 -
+/www.tar 2 -
+/static/admin/javascript/hetong.js 3 -
+/directory.zip 2 -
+/old/www.rar 2 -
+/admin.php 3 https://cdmssbsc.org/admin.php
+/upload/x.php 1 https://cdmssbsc.org/upload/x.php
+/wp-admin/style.php 2 -
+/restore/website.tar 2 -
+/components/com_jnews/includes/openflashchart/tmp-upload-images/255test.php 1 -
+/feed/ 1 http://www.cdmssbsc.org/feed/
+/backup.sql.gz 2 -
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/restore/public_html.tar.gz 2 -
+/wp-class.php 2 -
+/back/backup.rar 2 -
+/cms/wp-admin/install.php 2 -
+/wp/wp-includes/ALFA_DATA/alfacgiapi/ 2 -
+/test.php 1 www.bing.com
+/restore/backup.tar.gz 2 -
+/bak/latest.zip 2 -
+/restore/directory.tar.gz 2 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/wp/wp-json/wp/v2/users 5 -
+/backup/wp-admin/install.php 2 -
+/.production 1 https://www.google.com/
+/.well-known/alfacgiapi 1 www.bing.com
+/wp-2019.php 2 -
+/bak/backup.gz 2 -
+/bak/cdmssbsc.org.zip 2 -
+/02/license.txt 1 -
+/restore/www.gz 2 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/_adminer.php 1 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/restore/backup.sql.zip 2 -
+/alfacgiapi/ 2 -
+/data/admin/allowurl.txt 6 -
+/back/full_backup.zip 2 -
+/ALFA_DATA/alfacgiapi/ 2 -
+/back/backup.tar 2 -
+/wp-2018.php 2 -
+/wordpress/wp-class.php 2 -
+/restore/backup.rar 2 -
+/back/www.tar 2 -
+/backup/.well-known.zip 2 -
+/media-admin.php 1 www.bing.com
+/uploads/1234.php 1 https://cdmssbsc.org/uploads/1234.php
+/blog/license.txt 1 -
+/adminer-4.7.4.php 1 -
+/restore/website.zip 2 -
+/templets/admins.php 1 https://cdmssbsc.org/templets/admins.php
+/sandbox/wp-admin/setup-config.php 2 -
+/backups/bak.tar.gz 2 -
+/adm/adminer.php 1 -
+/adminer-4.6.2/ 1 -
+/AboutUs/license.txt 1 -
+/international%02conference.php 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/backup/backup.rar 1 -
+/101/license.txt 1 -
+/wp-content/plugins/apikey/apikey.php 2 -
+/102/license.txt 1 -
+/xmlrpcs.php 1 www.bing.com
+/old/cdmssbsc.org.tar.gz 2 -
+/old 6 http://mail.cdmssbsc.org/old
+/kcfinder/upload.php 1 -
+/wp-admin.php 1 www.bing.com
+/old/backup.sql.zip 2 -
+/backups/archive.zip 2 -
+/events/disast-o-pedia/2.jpeg 7 -
+/uploads/demodata.php 1 https://cdmssbsc.org/uploads/demodata.php
+/blog/ALFA_DATA/alfacgiapi/ 2 -
+/uploads/ 2 -
+/wordpress/ALFA_DATA/alfacgiapi/ 2 -
+/0z.php 2 -
+/eweb/login_admin.asp 1 https://cdmssbsc.org/eweb/login_admin.asp
+/backups/.well-known.zip 2 -
+/backup/www.tar 1 -
+/wallet.zip 2 -
+/wp-content/plugins/augmented-reality/file_manager/ 2 -
+/back/directory.rar 2 -
+/install/1.php 1 https://cdmssbsc.org/install/1.php
+/wp-content/outcms.php 1 www.bing.com
+/back/website.tar.gz 2 -
+/wp-content/plugins/apikey/ 2 -
+/old/cdmssbsc.org.rar 1 -
+/ups.php 1 www.bing.com
+//wp-includes/ID3/license.txt 12 -
+/wp-includes/css/ 2 -
+/public_html.rar 2 -
+/restore/directory.tar 2 -
+/bak/public_html.tar.gz 2 -
+/admin/controller/extension/extension/cgialfa 1 www.bing.com
+/bak/Archive.zip 2 -
+/old/backup.sql.gz 2 -
+/adm.php 1 -
+/.git/info/refs 2 -
+/templets/1234.php 1 https://cdmssbsc.org/templets/1234.php
+/wp-includes/wp-class.php 4 www.bing.com
+/xleet.php 3 www.bing.com
+/data/admin.php 1 https://cdmssbsc.org/data/admin.php
+/latest.zip 2 -
+/template/wdf.php 1 https://cdmssbsc.org/template/wdf.php
+/restore/bak.tar 2 -
+/old/backup.rar 2 -
+/back/cdmssbsc.org.rar 2 -
+/backup/cdmssbsc.org.zip 2 -
+/restore/www.tar 2 -
+/editor/login_admin.asp 1 https://cdmssbsc.org/editor/login_admin.asp
+/wp-admin/xleet-shell.php 1 www.google.com
+/backup/config.js 2 -
+/assets/filemanager/dialog.php 1 -
+/2002/license.txt 1 -
+/wp-includes/alfacgiapi/ 2 -
+/.DS_Store 1 -
+/m/1.php 1 https://cdmssbsc.org/m/1.php
+/wp-22.php 2 -
+/restore/cdmssbsc.org.zip 2 -
+/.well-known/traffic-advice 10 -
+/cdmssbsc.org.gz 2 -
+/site/wp-admin/setup-config.php 2 -
+/web.zip 2 -
+/export.php 1 www.bing.com
+/restore/public_html.gz 2 -
+/adminer-4.7.0.php 1 -
+/wp-content/mu-plugins-old/index.php 1 www.bing.com
+/adminer-4.8.0.php 1 -
+/uploads/1.php 1 https://cdmssbsc.org/uploads/1.php
+/sitemap.xml 12 -
+/blog/wp-admin/install.php 2 -
+/back/www.rar 2 -
+/restore/wallet.dat 2 -
+/wp-load.php 2 www.bing.com
+/old/backup.sql.tar 2 -
+/backup/backup.sql.zip 2 -
+/templets/demodata.php 1 https://cdmssbsc.org/templets/demodata.php
+/install/demodata.php 1 https://cdmssbsc.org/install/demodata.php
+/bak/web.zip 2 -
+/bak/public_html.tar 2 -
+/mini.php 2 -
+/404.php 2 -
+/restore/directory.rar 2 -
+/blog/alfacgiapi/ 2 -
+/backup/public_html.gz 2 -
+/backup/license.txt 1 -
+/error.php 1 www.bing.com
+/full_backup.zip 2 -
+/website.rar 2 -
+/site/ALFA_DATA/alfacgiapi/ 2 -
+/sites/all/modules/civicrm.local/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/backups/www.tar.gz 2 -
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/install/1234.php 1 https://cdmssbsc.org/install/1234.php
+/old/ 1 -
+/m/admins.php 1 https://cdmssbsc.org/m/admins.php
+/public_html.gz 2 -
+/admin 1 https://www.cdmssbsc.org/
+/data/newfile.php 1 https://cdmssbsc.org/data/newfile.php
+/temp/ 1 -
+/backup/sftp-config.json 4 -
+/restore/bak.gz 2 -
+/upload/demodata.php 1 https://cdmssbsc.org/upload/demodata.php
+/restore/web.zip 2 -
+/backups/website.rar 2 -
+/uucdsuzw.php 1 www.google.com
+/adminer-4.6.2-en.php 1 -
+/1000/license.txt 1 -
+/bak/website.zip 2 -
+/bak/public_html.zip 2 -
+/wikindex.php 3 www.bing.com
+/wp-login.php 24 -
+/Paiement/wp-admin/setup-config.php 2 -
+/s_e.php 1 www.bing.com
+/back/public_html.gz 2 -
+/admin/controller/extension/extension/alfacgiapi 1 www.bing.com
+/old/bak.rar 1 -
+/backup/www.zip 2 -
+/backup/public_html.tar 2 -
+/back/config.js 2 -
+/resources/front-end/img/slide/1.jpg 165 https://www.cdmssbsc.org/about-us.php
+/adminer-4.7.2.php 1 -
+/wp_wrong_datlib.php 1 www.bing.com
+/directory.gz 2 -
+/backup/www.tar.gz 2 -
+/restore/website.tar.gz 2 -
+/oldsite/wp-admin/setup-config.php 2 -
+/restore/www.rar 2 -
+/30/license.txt 1 -
+/wp-admin/cgialfa 1 www.bing.com
+/filemanager/filemanager/dialog.php 1 -
+/backup/backup.gz 2 -
+/wordpress/ 1 -
+/backup/full_backup.zip 2 -
+/beence.php 1 www.bing.com
+/old/directory.tar 2 -
+/wp-content/plugins/ 2 -
+/bak/config.json 2 -
+/adminer1.php 1 -
+/phpinfo.php 1 -
+/back/backup.gz 2 -
+/data/wdf.php 1 https://cdmssbsc.org/data/wdf.php
+/403.php 2 -
+/old/wallet.dat 1 -
+/back/website.rar 2 -
+/bak/full_backup.zip 2 -
+/website.tar 2 -
+/wp/wp-admin/setup-config.php 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/backup/public_html.zip 2 -
+/sindex.php 2 -
+/cgi-bin/DeathShop.php 4 -
+/wp-content/plugins/seoplugins/ 2 -
+/ftpsync.settings 1 -
+/old/directory.tar.gz 2 -
+/bak/directory.gz 2 -
+/back/bak.zip 2 -
+/v2/_catalog 1 -
+/back/website.tar 2 -
+/sql.php 1 -
+/wp-includes/css/wp-config.php 1 www.bing.com
+/old/index.zip 2 -
+/restore/website.gz 2 -
+/back/bak.gz 2 -
+/adminer-4.7.6-mysql.php 1 -
+/backup/directory.zip 2 -
+/backup/index.zip 2 -
+/arx/license.txt 1 -
+/about 1 -
+/old/cdmssbsc.org.gz 2 -
+/admin/controller/extension/extension/ALFA_DATA 1 www.bing.com
+/200/license.txt 1 -
+/upload/nginx.php 1 https://cdmssbsc.org/upload/nginx.php
+/web/wp-admin/setup-config.php 2 -
+/adminer-4.6.1.php 1 -
+/uploads/wdf.php 1 https://cdmssbsc.org/uploads/wdf.php
+/wp-content/ 4 -
+/bak/www.zip 2 -
+/.local 1 https://www.google.com/
+/data/admins.php 1 https://cdmssbsc.org/data/admins.php
+/restore/Archive.zip 1 -
+/bak/website.tar 2 -
+/restore/cdmssbsc.org.gz 2 -
+/upload/newfile.php 1 https://cdmssbsc.org/upload/newfile.php
+/admin/controller/extension/ 2 -
+/bak/archive.zip 2 -
+/wp-content/plugins/wp-file-manager/ 2 -
+/wp-commentin.php 5 -
+/adminer-4.7.7-mysql.php 1 -
+/bak/www.gz 2 -
+/assets/plugins/filemanager/dialog.php 1 -
+/website.tar.gz 1 -
+/fw.php 2 -
+/wp-content/themes/gaukingo/db.php 2 -
+/new/wp-admin/install.php 2 -
+/backups/wallet.zip 2 -
+/admin/ 2 -
+/wp-content/uploads/ALFA_DATA 1 www.bing.com
+/wp-includes/fw.php 2 -
+/restore/credentials.txt 4 -
+/wp-includes/wp-atom.php 1 www.bing.com
+/restore/config.json 2 -
+/old/bak.tar.gz 2 -
+/back/latest.zip 2 -
+/template/demodata.php 1 https://cdmssbsc.org/template/demodata.php
+/old/website.tar.gz 2 -
+/wp-includes/css/css.php 1 www.bing.com
+/new 7 http://mail.cdmssbsc.org/new
+/bak/website.rar 2 -
+/2index.php 2 -
+/wp-content/shell20211028.php 1 www.google.com
+/restore/backup.tar 2 -
+/restore/sftp-config.json 4 -
+/directory.tar 2 -
+/old/backup.tar.gz 2 -
+/1234.php 1 https://cdmssbsc.org/1234.php
+/uploads/admins.php 1 https://cdmssbsc.org/uploads/admins.php
+/wp.php 1 www.bing.com
+/adminer-mysql.php 1 -
+/adminer-4.6.3.php 1 -
+/install/a.php 1 https://cdmssbsc.org/install/a.php
+/backup/bak.gz 2 -
+/admin/.env 1 https://www.google.com/
+/old/backup.zip 2 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/mar.php 2 -
+/alfa.php 3 www.bing.com
+/wp-content/admin.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/database.php 2 -
+/old/config.js 2 -
+/linktr.ee/cdms_sbsc 10 -
+/backup.tar 2 -
+/site/wp-class.php 2 -
+/wp-includes/ALFA_DATA/alfacgiapi/ 2 -
+/wordpress/wp-includes/ALFA_DATA/alfacgiapi/ 2 -
+/restore/www.zip 2 -
+/back/directory.tar 2 -
+/m/demodata.php 1 https://cdmssbsc.org/m/demodata.php
+/style.php 4 -
+/tinymce/filemanager/dialog.php 1 -
+/adminer-4.7.7/ 1 -
+/backups/public_html.tar.gz 2 -
+/admin/controller/alfacgiapi/ 2 -
+/bak.rar 2 -
+/backups/index.zip 2 -
+/adminer-4.7.8-en.php 1 -
+/www.gz 2 -
+/backup/backup.sql.tar 2 -
+/back/bak.tar.gz 2 -
+/demo 1 -
+/tmp/license.txt 1 -
+/old/bak.tar 2 -
+/back/index.zip 2 -
+/backup.rar 2 -
+/wp-cron.php 1 -
+/ALFA_DATA 1 www.bing.com
+/backups/directory.gz 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 666
+116.211.22.77 31 31 57327 20230101005038
+14.139.45.242 29 122 20255441 20230131093749
+49.36.178.215 28 88 9160984 20230131123620
+104.37.27.161 27 27 105444 20230130055722
+104.232.39.86 27 27 105444 20230105194426
+104.232.199.4 27 27 105444 20230130055720
+104.237.245.159 27 27 105444 20230105194435
+103.74.72.124 23 78 9121344 20230111125525
+69.160.160.55 23 53 1851362 20230109212205
+172.121.208.92 22 22 272959 20230105194435
+103.27.11.105 19 65 2721103 20230110185127
+49.42.69.45 19 74 9409777 20230104130430
+106.213.83.12 18 87 10387516 20230125055437
+122.161.66.21 17 62 2683586 20230129162705
+86.24.169.180 16 69 8920006 20230131224442
+49.14.156.12 16 57 2441468 20230110131420
+116.74.19.241 15 54 2496405 20230120060858
+223.182.16.197 14 35 6577330 20230126060736
+152.58.88.249 14 52 2521597 20230128091059
+27.5.31.249 13 44 2310887 20230122162908
+47.31.182.180 13 63 4790788 20230112043422
+223.190.183.113 11 41 2279051 20230104131501
+183.83.210.238 11 50 3461431 20230127081136
+152.58.88.5 11 49 2826691 20230128091013
+152.57.193.182 10 33 1345626 20230101193000
+49.37.66.254 0 1 75900 
+157.245.201.57 2 2 38206 20230113045014
+35.89.37.214 1 1 0 20230128030729
+44.234.47.136 2 2 10306 20230120110015
+35.163.128.162 1 1 5153 20230113161409
+45.118.158.218 6 36 2253286 20230114093739
+209.141.55.120 3 3 15459 20230122095342
+103.57.87.84 0 1 28323 
+64.124.8.32 0 7 799901 
+51.255.62.11 1 1 19103 20230124024320
+34.216.220.128 1 1 5153 20230117164329
+42.236.10.93 7 47 2351448 20230116103236
+35.89.215.136 1 1 5153 20230128162737
+39.110.218.101 2 2 10306 20230122004613
+64.124.8.31 0 5 1378334 
+107.172.123.74 2 2 19103 20230127110051
+157.230.62.1 3 3 57309 20230127035706
+103.142.120.127 5 35 2248133 20230107164752
+139.167.182.217 0 1 75900 
+64.124.8.57 0 2 1005347 
+18.236.70.28 1 1 5153 20230115173505
+54.218.196.195 1 1 5153 20230103162426
+165.22.107.4 2 2 38206 20230102074119
+35.92.109.149 1 1 5153 20230115163931
+157.245.35.108 2 2 38206 20230130200743
+52.41.234.104 4 34 2242980 20230127110104
+18.237.148.135 4 34 2242980 20230101052757
+103.226.90.247 0 1 75900 
+198.235.24.156 1 1 37927 20230116211726
+180.163.220.68 4 34 2195176 20230107161730
+209.126.77.67 1 1 0 20230111222905
+74.84.150.150 7 7 36071 20230131010043
+103.157.123.97 7 57 2966179 20230111145243
+78.85.48.166 1 1 19103 20230113190003
+34.210.183.127 1 1 5153 20230113161455
+49.36.186.177 0 1 96637 
+120.231.230.247 1 1 19103 20230115000648
+18.236.153.190 4 34 2242980 20230114072744
+103.67.18.109 0 1 75900 
+154.16.226.92 1 2 1793665 20230125000525
+89.187.162.187 2 2 38206 20230110181954
+172.121.221.138 1 1 5153 20230113205836
+118.74.226.27 1 1 5153 20230131212508
+157.37.171.242 5 35 2248133 20230130113510
+45.248.2.252 1 20 486347 20230114044655
+203.194.97.246 0 3 43128 
+116.75.235.157 0 1 75900 
+116.206.156.255 0 1 75900 
+64.124.8.55 0 1 452469 
+199.244.88.227 1 1 5153 20230112031651
+133.242.174.119 2 2 10306 20230122024515
+103.243.113.69 0 1 3096948 
+64.233.173.153 1 6 390670 20230119094911
+185.215.180.76 1 1 5153 20230127163839
+183.83.215.76 7 37 2255939 20230113111836
+122.161.52.155 0 1 75900 
+191.102.154.135 1 1 5153 20230129181941
+35.88.184.244 1 1 5153 20230115164159
+42.236.10.75 5 35 2242980 20230102080445
+162.142.125.9 1 1 12208 20230105192357
+209.141.35.128 4 4 20612 20230127012324
+106.211.112.73 5 35 2248133 20230106075831
+106.215.138.41 0 1 75900 
+44.233.220.227 1 1 5153 20230121214437
+27.124.20.134 3 3 15459 20230114231735
+107.167.39.74 2 2 10306 20230110003422
+170.64.130.165 1 1 19103 20230130142921
+194.38.20.161 1 1 19103 20230130095058
+122.170.131.225 0 1 75900 
+5.188.62.26 3 3 15459 20230124213308
+223.187.101.200 0 1 75900 
+104.200.76.109 2 2 19103 20230110202845
+106.78.46.147 0 1 75900 
+152.57.242.30 1 18 369504 20230106165404
+198.235.24.54 1 1 19103 20230120184523
+106.223.33.79 0 1 75900 
+14.139.114.4 5 36 3203170 20230103063025
+122.171.22.173 5 35 2248133 20230128172122
+223.190.87.212 0 1 75900 
+14.116.158.108 1 1 5153 20230103124655
+54.201.255.0 4 34 2242980 20230124223054
+205.210.31.54 1 1 37927 20230128060936
+132.154.52.9 0 1 955037 
+143.198.51.227 2 2 8315 20230103011140
+52.212.233.216 1 1 5153 20230124104454
+202.66.164.53 0 1 75900 
+34.219.243.71 1 1 5153 20230108163813
+35.85.49.55 1 1 5153 20230105161956
+35.90.64.236 1 1 5153 20230116161941
+110.235.230.93 5 35 2248133 20230122141958
+18.237.239.76 1 1 19103 20230103165622
+115.113.188.129 5 35 2248133 20230118111718
+209.126.86.35 1 1 0 20230124210654
+167.248.133.119 4 4 20612 20230112191431
+103.3.204.151 0 1 75900 
+172.121.208.217 2 2 24422 20230113220930
+185.158.106.39 2 4 3587330 20230104181613
+52.26.178.147 1 1 5153 20230125164522
+34.220.62.102 1 1 5153 20230115175145
+106.195.14.152 1 18 369504 20230105111009
+44.234.89.20 1 1 5153 20230104091257
+167.248.133.120 1 1 12212 20230102192952
+142.202.242.202 2 2 10306 20230129213124
+42.105.114.94 0 1 75900 
+106.210.96.224 0 1 75900 
+117.99.247.102 6 36 2253286 20230108092753
+103.60.166.47 2 2 10306 20230106023733
+54.245.79.42 1 1 5153 20230128161739
+34.221.70.244 4 34 2242980 20230106172151
+35.92.110.247 1 1 5153 20230124160659
+68.183.11.93 1 1 3903 20230105163746
+103.240.170.16 2 19 374657 20230128111853
+54.191.41.96 8 68 4485960 20230112203736
+104.222.46.187 2 2 19103 20230127110055
+5.180.136.35 2 2 19103 20230107064151
+157.51.148.240 0 1 144556 
+103.181.92.10 1 18 273124 20230110170304
+120.229.23.106 1 1 19103 20230127063406
+112.245.158.144 2 2 10306 20230125205504
+104.232.199.42 1 1 5153 20230130013030
+18.143.113.33 1 1 5153 20230125075822
+52.37.19.4 1 1 5153 20230109165720
+93.158.90.151 1 1 5153 20230126221457
+49.36.82.250 2 2 38206 20230103024228
+116.73.198.248 1 18 369504 20230112133645
+122.161.51.41 0 1 176149 
+185.67.55.82 2 2 38206 20230130104002
+91.223.118.49 2 2 38206 20230108165638
+35.166.110.227 1 1 0 20230119075700
+205.210.31.42 1 1 19103 20230114010450
+54.202.66.176 4 34 2242980 20230121141735
+188.232.8.123 2 2 38206 20230121163428
+54.218.117.136 4 34 2242980 20230122204638
+152.58.29.32 0 1 144556 
+43.227.245.26 4 32 6827495 20230130145720
+146.190.124.39 1 1 3408 20230101164506
+104.248.250.10 1 1 5153 20230102161513
+209.126.77.66 1 1 0 20230129182532
+205.210.31.30 1 1 37927 20230127110756
+47.31.217.252 0 1 75900 
+85.208.21.169 2 2 10306 20230112171231
+54.214.152.211 3 3 0 20230123204645
+165.22.71.235 1 1 5153 20230103162532
+122.161.53.191 0 1 75900 
+205.169.39.151 5 41 2470570 20230109211858
+95.142.123.12 1 1 19103 20230102052655
+35.215.64.144 2 2 10306 20230131085421
+49.14.90.105 5 35 2150111 20230111132834
+164.92.78.106 1 1 3511 20230106085327
+103.46.201.136 1 11 96520 20230113120744
+165.232.169.138 1 1 2731 20230104152350
+45.5.65.95 2 2 19103 20230106174505
+47.15.21.80 5 33 6823667 20230108145025
+77.239.64.68 4 34 2242980 20230130065950
+74.125.212.211 3 11 783015 20230110125916
+23.93.50.111 6 34 6835907 20230125172250
+137.184.190.41 1 1 3511 20230103005932
+47.9.35.149 0 1 28323 
+45.5.65.240 1 1 5153 20230105154109
+85.115.248.23 2 2 38206 20230115125355
+52.39.204.37 1 1 5153 20230111170152
+42.108.67.2 0 1 326278 
+66.102.7.250 2 6 70419 20230119094932
+54.149.200.16 1 1 5153 20230130162922
+178.128.195.210 1 1 3584 20230117021320
+64.233.173.151 2 9 357561 20230119094931
+172.121.223.81 4 4 19996 20230113220932
+106.216.118.221 0 1 75900 
+61.146.186.146 2 2 38206 20230104014357
+60.223.132.26 1 1 5153 20230104112119
+137.184.4.127 1 1 3772 20230106173543
+103.27.11.102 6 34 6949849 20230112182043
+207.182.25.68 5 22 897990 20230119193314
+178.128.199.105 1 1 5153 20230103150504
+54.203.167.135 1 1 5153 20230111165844
+205.210.31.146 1 1 19103 20230131024250
+157.230.176.175 1 1 3772 20230105084956
+34.222.171.93 2 2 10306 20230115164752
+169.149.224.227 5 35 2248133 20230103152050
+112.234.215.6 2 2 33962 20230124003309
+106.210.45.60 4 32 6819461 20230125031951
+148.153.98.52 1 1 5153 20230113043216
+164.92.177.220 1 1 3584 20230117021321
+146.190.169.85 1 1 0 20230124071728
+157.245.12.98 1 1 5153 20230103124914
+165.225.124.100 0 1 668570 
+74.125.212.209 1 18 1246893 20230110125943
+150.249.214.250 1 1 5153 20230128014300
+103.105.96.212 0 1 30769 
+167.71.77.102 1 1 2731 20230105113755
+88.99.136.18 1 1 5153 20230107081732
+49.37.170.23 7 33 1181621 20230130162923
+172.121.220.4 3 3 14512 20230122003359
+146.190.248.193 1 1 3584 20230105163106
+183.83.212.235 0 5 759889 
+64.124.8.23 0 15 2378579 
+205.169.39.63 6 36 2253286 20230122004542
+27.218.213.239 6 6 101886 20230105214435
+47.254.85.182 1 1 5153 20230123061551
+117.98.2.148 0 2 151800 
+54.213.170.109 1 1 5153 20230105162123
+193.186.4.136 1 1 5153 20230103065419
+152.58.118.19 7 40 7378181 20230103182224
+103.120.239.219 4 34 2242980 20230103084941
+64.124.8.48 0 4 720298 
+50.112.19.249 1 1 5153 20230115173528
+157.37.185.77 2 2 10306 20230130114400
+165.22.83.63 2 2 6936 20230107061916
+49.37.112.18 0 1 75900 
+66.94.99.113 1 1 0 20230104210454
+34.214.89.130 1 1 5153 20230130162325
+64.124.8.30 0 8 1824246 
+152.58.114.170 4 32 6819461 20230111205840
+45.143.201.87 1 1 5153 20230119070252
+104.194.196.17 2 2 19103 20230110215122
+204.48.19.95 1 1 3584 20230107043751
+118.74.32.225 1 1 5153 20230104165126
+35.93.91.156 1 1 5153 20230130161402
+42.111.110.25 0 1 75900 
+52.88.186.85 1 1 0 20230131220822
+5.75.173.193 1 1 5153 20230128102842
+138.199.7.137 2 2 30550 20230131043243
+110.224.77.224 0 1 75900 
+20.106.90.54 1 1 19103 20230120023412
+157.37.151.141 0 1 326278 
+185.181.60.12 1 1 5153 20230105190828
+18.116.63.23 9 78 1552709 20230118132321
+35.165.123.84 1 1 5153 20230103161857
+133.242.140.127 2 2 10306 20230122024509
+104.165.105.170 1 1 5153 20230105154109
+64.124.8.49 0 20 5240410 
+157.37.200.99 0 1 75900 
+195.211.77.140 1 1 19103 20230122004523
+106.221.42.193 0 1 75900 
+47.11.248.68 5 35 2248133 20230102173021
+164.92.167.126 1 1 3584 20230117021320
+110.14.63.77 1 1 0 20230119190636
+35.88.126.142 1 1 5153 20230103162213
+54.244.212.224 1 1 0 20230124223051
+106.205.208.107 7 39 2412998 20230104074423
+54.214.147.31 4 34 2242980 20230128122231
+223.225.57.250 1 18 247889 20230130141909
+42.111.92.105 4 32 6819461 20230109055807
+8.142.64.24 2 2 5153 20230126210751
+112.245.241.215 1 1 5153 20230123203848
+49.14.156.107 0 1 28323 
+20.150.220.213 2 2 10306 20230130080015
+170.64.129.36 1 1 19103 20230109142149
+152.57.213.84 1 18 369504 20230107090100
+122.161.91.192 5 35 2248133 20230126132104
+157.37.138.104 5 35 2248133 20230125141022
+117.233.89.58 1 18 369504 20230103072425
+106.210.99.51 9 44 1447590 20230119094929
+205.185.116.25 2 2 10306 20230108012558
+206.189.61.143 1 1 5153 20230103131634
+194.165.17.27 1 1 5153 20230108141651
+172.121.218.108 2 2 19103 20230127110054
+54.149.151.158 1 1 0 20230112203735
+106.195.10.202 1 18 369504 20230111062837
+18.237.223.57 1 1 5153 20230128162730
+117.98.22.122 0 1 75900 
+176.9.47.58 1 1 5153 20230127154946
+49.36.184.28 7 33 1181621 20230115131254
+34.220.1.18 1 1 5153 20230124160718
+104.224.66.60 1 1 5153 20230130013030
+106.211.11.116 0 1 279452 
+209.141.36.112 4 4 20612 20230131040626
+35.87.49.46 1 1 5153 20230124072246
+65.21.158.32 0 1 3096948 
+191.96.4.95 2 2 38206 20230129145849
+42.83.147.34 2 2 10306 20230131103120
+106.91.80.23 3 3 15459 20230115184320
+74.125.212.207 2 7 216975 20230110125858
+172.121.221.120 3 3 14512 20230113220931
+34.214.103.243 1 1 5153 20230130162638
+115.98.233.97 5 33 6823667 20230120070736
+162.244.148.1 4 21 841422 20230126142401
+120.84.11.127 2 2 10306 20230122010036
+34.222.236.97 1 1 5153 20230119163125
+104.222.46.95 4 4 17486 20230113220932
+107.172.123.234 2 2 19103 20230106174506
+54.186.216.33 1 1 5153 20230111165635
+59.36.175.46 1 1 5153 20230122094416
+49.42.67.254 0 1 75900 
+2.220.239.129 0 1 279452 
+42.105.153.55 0 1 75900 
+1.38.216.62 4 25 1218018 20230106150141
+47.92.152.150 2 2 5153 20230126214752
+66.102.7.252 3 11 215707 20230119094932
+37.139.53.82 2 2 30550 20230103053311
+122.161.81.121 1 22 566770 20230103105957
+36.230.85.177 1 1 5153 20230124151318
+64.124.8.51 0 13 1869849 
+205.210.31.11 1 1 19103 20230121231006
+62.254.93.91 0 1 96637 
+103.149.196.243 5 39 2511979 20230110143154
+34.220.185.162 4 34 2242980 20230128030731
+106.202.49.35 0 1 75900 
+64.124.8.52 0 13 4034833 
+172.121.220.55 1 1 5153 20230121225636
+193.186.4.143 3 3 15459 20230117095343
+208.110.81.218 1 1 5153 20230112035204
+68.183.239.37 4 4 76412 20230108180041
+185.202.172.77 2 2 10306 20230118024933
+109.239.58.107 2 2 10306 20230124171248
+159.69.18.189 1 1 19103 20230113183624
+172.121.216.108 1 1 12216 20230105154109
+114.45.79.246 1 1 5153 20230124213601
+54.245.150.201 1 1 5153 20230122162601
+103.79.168.198 0 1 75900 
+137.97.126.51 0 1 1844139 
+106.215.251.254 1 1 4740 20230103130813
+51.254.49.108 1 1 19103 20230124040614
+183.83.210.35 0 1 75900 
+35.202.214.231 2 2 38206 20230103035518
+18.237.134.15 1 1 5153 20230115180047
+202.142.117.132 7 37 2258439 20230106182031
+49.36.144.186 7 41 7930437 20230101152102
+223.186.213.107 4 34 2242980 20230124162221
+104.222.162.226 2 2 24426 20230122003357
+159.203.128.213 1 1 5153 20230124205206
+20.242.65.192 1 1 5153 20230110233327
+34.220.24.130 1 1 5153 20230108163812
+116.50.59.203 1 22 566770 20230116105606
+47.31.99.242 0 1 75900 
+188.165.87.98 1 1 19103 20230124035208
+15.235.12.96 2 2 10306 20230124021607
+35.93.53.238 2 2 0 20230122204636
+27.115.124.45 5 35 2248133 20230113003151
+54.245.138.68 1 1 5153 20230111165917
+35.91.55.70 1 1 5153 20230103161817
+54.201.217.31 1 1 5153 20230111165620
+122.10.16.224 1 1 5153 20230109235147
+106.210.99.195 3 9 261225 20230119110341
+162.142.125.220 1 1 12214 20230105192356
+93.158.90.169 1 1 5153 20230106141511
+205.185.116.89 1 1 5153 20230124010114
+198.235.24.39 1 1 19103 20230127213213
+122.162.150.131 0 1 100304 
+115.146.248.10 6 6 114618 20230122110136
+104.194.192.114 1 1 5153 20230105154109
+159.65.51.215 1 1 19103 20230122004700
+52.34.47.64 1 1 0 20230107155317
+162.142.125.219 1 1 12212 20230125105657
+34.208.165.200 1 1 5153 20230115164413
+104.194.192.40 1 1 12210 20230130013030
+172.121.222.179 1 1 5153 20230130013030
+103.37.201.152 7 35 2164981 20230103125008
+146.190.248.215 1 1 2740 20230103165908
+14.116.184.240 1 1 5153 20230101102746
+54.245.69.7 1 1 5153 20230125164303
+60.223.122.224 1 1 5153 20230110161423
+104.248.170.71 1 1 4206 20230102200316
+79.110.62.37 2 2 38206 20230109121414
+72.14.201.138 1 1 5153 20230103062340
+209.141.51.222 2 2 10306 20230131010418
+139.59.237.215 2 2 38206 20230131034923
+103.208.72.78 1 22 566770 20230103033207
+35.90.44.49 1 1 5153 20230122162737
+42.111.127.8 0 1 326278 
+152.57.203.43 5 35 2248133 20230119174557
+104.248.195.46 1 1 3408 20230104180720
+34.221.132.190 4 34 2242980 20230111040634
+104.144.227.177 4 21 842463 20230112141446
+203.153.32.67 8 53 9171004 20230105111820
+132.154.13.140 5 25 1040025 20230111130619
+185.155.99.77 1 1 5153 20230113132454
+117.197.55.240 0 1 100304 
+1.187.217.20 0 1 75900 
+54.201.56.166 1 1 5153 20230130161448
+34.219.214.14 1 1 5153 20230124160613
+146.190.248.232 1 1 3162 20230101165006
+178.151.112.236 2 2 38206 20230128232024
+136.143.177.62 3 3 13817 20230128010324
+122.164.80.40 4 24 1585860 20230104130947
+162.223.122.98 4 21 842463 20230126142350
+205.185.122.184 2 2 10306 20230124010117
+54.201.234.113 1 1 5153 20230115165204
+180.163.220.4 4 34 2242980 20230118034512
+79.137.65.46 1 1 19103 20230106175413
+34.219.188.149 1 1 5153 20230119163119
+152.57.83.39 7 31 1414598 20230114151151
+34.212.176.237 4 34 2242980 20230118002620
+172.121.216.29 1 1 12216 20230121225636
+185.243.218.41 1 1 5153 20230122204228
+154.89.5.38 1 4 133787 20230125023848
+223.185.143.68 4 51 4415744 20230104054520
+172.121.218.124 2 2 19103 20230127110052
+205.210.31.45 1 1 19103 20230122110759
+104.222.46.137 2 2 19103 20230127110101
+137.184.123.164 1 1 2730 20230102054328
+103.158.136.19 5 35 2248133 20230104175128
+54.187.168.82 1 1 5153 20230109165752
+47.31.98.124 0 1 75900 
+106.198.182.167 0 1 75900 
+49.44.82.10 4 34 2242980 20230124160331
+112.105.131.132 1 1 5153 20230112225158
+159.223.55.111 2 2 38206 20230131123102
+223.233.68.70 7 33 1181621 20230117065901
+130.88.202.203 1 1 14859 20230131210443
+172.245.25.95 1 1 5153 20230117034806
+139.59.112.91 1 1 5153 20230103152313
+118.165.184.99 1 1 5153 20230110234756
+117.98.22.42 7 37 2255939 20230110125919
+35.88.232.188 5 35 2248133 20230110202854
+54.218.156.251 1 1 5153 20230109165303
+167.248.133.46 4 4 20612 20230103190823
+209.141.34.187 1 1 5153 20230127012139
+72.14.201.137 1 1 5153 20230103092832
+103.224.154.76 0 2 4828563 
+52.39.107.15 4 34 2242980 20230101233527
+223.231.237.134 7 33 1181621 20230103125129
+64.124.8.24 0 11 2042290 
+103.252.170.244 4 34 2242980 20230103063626
+146.190.87.79 2 2 38206 20230128061725
+34.222.244.37 1 1 5153 20230105161842
+44.234.114.218 2 2 10306 20230129015742
+54.202.223.73 1 1 5153 20230115180518
+1.38.188.131 10 43 7425447 20230111164032
+35.87.243.159 5 35 2248133 20230106174516
+34.213.138.190 4 34 2242980 20230108105413
+137.74.27.104 1 1 5153 20230105120153
+95.78.14.5 2 2 38206 20230122132834
+49.89.96.9 2 2 9359 20230102035806
+182.69.176.255 0 1 75900 
+137.226.113.44 4 4 20612 20230127143024
+87.236.176.119 1 1 5153 20230116193807
+66.102.7.254 1 6 566680 20230119094909
+36.225.73.120 1 1 5153 20230111224344
+47.88.87.97 1 1 5153 20230123055536
+103.251.211.68 8 38 2260308 20230101061512
+106.207.60.4 4 32 6819461 20230110122827
+54.149.82.105 1 1 5153 20230116161739
+106.210.229.37 5 35 2248133 20230128055158
+14.139.227.82 1 29 6345121 20230131083245
+112.105.133.179 1 1 5153 20230116114106
+20.239.77.165 1 1 5153 20230131012517
+114.45.79.89 1 1 5153 20230101192154
+49.37.37.128 4 32 6819461 20230103181755
+104.37.27.46 3 3 15459 20230122003333
+184.94.240.88 8 10 226818 20230105172211
+52.36.11.154 1 1 5153 20230124161106
+72.14.201.143 1 1 3584 20230118032658
+54.187.192.27 5 35 2248133 20230110215132
+104.194.196.85 2 2 19103 20230110215123
+93.159.230.89 2 2 10306 20230123050142
+34.221.76.12 8 68 4485960 20230119180039
+45.64.227.2 5 36 3203170 20230120011527
+1.187.33.201 1 18 369504 20230103054951
+152.58.117.202 1 18 369504 20230130125510
+112.196.170.207 1 18 369504 20230113130030
+117.217.102.98 2 2 38206 20230120140618
+209.141.49.169 1 1 5153 20230122005044
+54.200.246.44 1 1 5153 20230115164843
+198.235.24.144 1 1 37927 20230124235833
+64.124.8.25 0 18 2386381 
+192.36.52.37 1 1 5153 20230117105656
+35.88.209.247 1 1 5153 20230130161932
+157.47.65.167 0 1 144556 
+106.207.66.189 0 1 75900 
+172.176.97.191 1 1 5153 20230110233659
+34.222.110.34 4 34 2242980 20230115232455
+35.92.166.13 5 35 2242980 20230119075702
+49.37.161.160 1 22 566770 20230108102447
+206.81.14.203 1 1 4537 20230103050334
+54.190.222.34 1 1 5153 20230125164335
+82.200.235.138 1 1 5153 20230117202604
+117.205.83.124 7 40 7378181 20230114075523
+45.118.159.30 0 1 75900 
+104.232.39.222 1 1 5153 20230127110111
+59.88.112.105 1 18 369504 20230114153657
+54.218.73.82 1 1 5153 20230117164346
+209.141.36.231 1 1 5153 20230130010657
+35.165.248.134 1 1 5153 20230117164342
+152.58.120.54 0 1 326278 
+49.36.181.70 0 1 75900 
+83.240.170.4 6 36 2253286 20230113152132
+103.118.43.87 2 2 10306 20230113143434
+54.184.59.182 1 1 5153 20230103161906
+146.190.237.54 2 2 8121 20230105175734
+149.56.150.97 10 10 146364 20230113064806
+118.193.45.5 1 4 133787 20230125024049
+49.36.214.72 5 33 6823667 20230102054153
+72.14.201.140 2 2 10306 20230118161758
+49.15.225.130 0 1 100304 
+143.198.82.50 1 1 0 20230119021244
+23.83.179.210 1 1 5153 20230115185438
+47.88.5.56 1 1 5153 20230123055536
+202.41.10.102 5 25 1040025 20230121024839
+43.227.244.20 0 3 80306 
+183.83.213.84 2 2 14473 20230124105326
+35.87.219.225 1 1 5153 20230108163828
+104.232.39.159 2 2 19103 20230127110050
+51.68.11.215 2 2 38206 20230126192055
+136.226.251.30 1 17 387190 20230121074532
+66.249.75.125 0 1 788100 
+199.244.88.232 1 1 5153 20230127214452
+47.31.235.224 0 1 75900 
+122.177.110.182 0 1 75900 
+103.83.145.32 5 33 6823667 20230106055849
+165.22.50.123 2 2 38206 20230104172838
+49.15.224.63 0 1 75900 
+47.31.98.212 0 1 75900 
+34.212.207.108 1 1 5153 20230119163056
+103.44.54.189 0 1 75900 
+185.51.134.199 1 1 5153 20230120141524
+49.42.81.13 0 1 75900 
+51.13.19.146 4 4 76412 20230127145655
+103.81.26.203 0 1 75900 
+34.221.135.165 1 1 5153 20230115165244
+34.222.123.227 1 1 5153 20230109165158
+198.235.24.29 1 1 19103 20230125094256
+103.57.87.92 0 4 326776 
+5.161.49.245 1 1 5153 20230103220639
+47.15.192.66 0 1 75900 
+180.163.220.54 4 34 2242980 20230113003150
+103.240.205.104 0 1 75900 
+103.127.224.186 0 1 75900 
+35.163.223.181 1 1 5153 20230121163404
+54.200.225.219 5 35 2242980 20230123204647
+198.235.24.43 1 1 19103 20230128035030
+35.90.121.47 1 1 5153 20230122162652
+52.11.236.78 4 34 2242980 20230115055230
+107.172.134.200 4 34 2242980 20230111191749
+52.89.71.118 1 1 5153 20230125164535
+101.68.211.2 8 8 228132 20230127210937
+64.124.8.28 0 2 195202 
+87.236.176.176 1 1 5153 20230115084405
+198.235.24.153 1 1 37927 20230121072352
+34.218.45.198 4 34 2242980 20230107155319
+36.229.153.1 1 1 5153 20230109021050
+154.16.4.94 1 2 1793665 20230116004904
+110.226.38.159 0 1 75900 
+35.93.55.214 1 1 5153 20230121163350
+114.41.34.61 1 1 5153 20230110124349
+87.236.176.249 1 1 5153 20230115084403
+103.163.182.238 0 1 144556 
+157.37.212.221 4 32 6819461 20230127042417
+180.163.220.5 4 34 2242980 20230113003102
+52.27.37.187 1 1 5153 20230115180439
+118.74.227.80 1 1 5153 20230111213434
+104.224.66.69 3 3 13714 20230122003359
+165.22.67.250 1 1 3903 20230104143006
+34.213.195.124 1 1 5153 20230119163056
+109.123.236.123 1 1 19103 20230105030510
+198.235.24.177 1 1 37927 20230122034504
+104.233.61.7 2 2 19103 20230127110059
+49.43.153.82 7 37 2257458 20230124160324
+193.186.4.146 1 1 5153 20230116091854
+64.124.8.29 0 2 804438 
+34.216.172.23 1 1 5153 20230108163820
+27.34.68.26 0 1 96637 
+209.141.33.65 1 1 5153 20230119012136
+54.202.141.162 1 1 5153 20230121163331
+14.139.245.181 5 35 2248133 20230110075250
+172.121.208.71 1 1 5153 20230113205836
+20.46.121.32 1 1 5153 20230120170408
+49.12.15.78 1 1 19103 20230113121919
+185.156.46.176 1 1 5153 20230115185823
+149.56.150.149 4 34 2242980 20230113064827
+64.62.158.119 4 34 2242980 20230125090554
+88.236.187.74 2 2 38206 20230103052921
+207.148.120.122 2 2 10306 20230102004231
+61.147.15.67 1 1 5153 20230123154442
+132.154.150.249 0 1 75900 
+1.38.216.227 0 1 75900 
+172.121.216.251 2 2 19103 20230110202847
+150.249.214.249 1 1 5153 20230120030343
+199.47.82.16 1 2 3102101 20230106134951
+103.69.15.121 2 23 571923 20230120070002
+72.14.201.139 1 1 5153 20230103053612
+167.94.138.47 4 4 20612 20230128113417
+34.217.54.215 1 1 5153 20230124160632
+157.35.4.108 0 1 75900 
+54.244.141.9 1 1 5153 20230115164335
+64.124.8.53 0 2 119912 
+35.89.148.21 4 34 2242980 20230114182828
+157.37.186.199 0 1 75900 
+192.3.168.58 4 21 841422 20230112141503
+87.116.164.134 2 2 38206 20230112131557
+104.194.192.130 1 1 5153 20230121225636
+51.81.167.146 1 1 19103 20230122005112
+122.180.178.106 4 32 6819461 20230109121832
+157.37.145.100 0 1 75900 
+223.190.147.93 0 1 75900 
+34.221.155.252 4 34 2242980 20230131220823
+157.37.207.37 0 1 75900 
+34.222.14.145 1 1 5153 20230130161303
+152.58.18.249 5 35 2248133 20230103062607
+51.158.37.180 1 1 19103 20230123193458
+110.224.121.176 0 1 75900 
+54.190.168.97 1 1 5153 20230122162604
+54.191.225.111 1 1 5153 20230111170115
+152.57.228.186 5 29 1510358 20230103103815
+14.139.60.220 5 35 2248133 20230102111422
+61.147.15.65 2 2 10306 20230120152527
+35.162.190.173 1 1 5153 20230130162845
+122.162.150.86 0 1 75900 
+64.233.173.152 2 7 99786 20230119094911
+205.210.31.22 1 1 19103 20230115010236
+106.193.180.89 7 37 2258439 20230120153308
+223.185.39.199 0 1 75900 
+123.204.123.70 1 1 5153 20230128183813
+122.176.192.188 5 33 6823667 20230103050008
+183.136.225.46 2 2 24256 20230107112429
+152.58.89.135 2 2 9578 20230128090942
+54.213.229.118 2 2 0 20230106004217
+152.58.3.16 8 38 2261092 20230118161931
+198.235.24.38 1 1 19103 20230129101549
+192.241.139.66 1 1 5153 20230105233356
+49.36.177.137 0 1 75900 
+223.240.99.104 1 1 5153 20230109105112
+35.92.154.58 1 1 5153 20230103161907
+185.246.220.41 2 2 10306 20230104175417
+165.232.104.202 1 1 2740 20230102092256
+47.31.166.175 0 1 75900 
+122.162.148.131 0 1 75900 
+18.237.43.97 1 1 5153 20230105162246
+176.126.123.21 2 2 38206 20230114143757
+35.165.92.44 1 1 5153 20230124161025
+122.161.75.218 1 20 486535 20230119110943
+205.210.31.38 1 1 19103 20230117115744
+157.35.51.186 0 1 75900 
+104.168.40.252 2 2 19103 20230127110057
+47.31.172.79 5 36 2293201 20230127115345
+103.173.221.218 6 36 2253286 20230101163921
+162.142.125.10 4 4 20612 20230130143535
+34.211.137.56 1 1 5153 20230117164329
+47.15.218.205 0 1 75900 
+38.54.89.235 2 2 10306 20230123031015
+87.236.176.71 1 1 5153 20230116193810
+51.254.49.111 1 1 19103 20230124054119
+199.244.88.221 1 1 5153 20230104013648
+205.210.31.167 1 1 19103 20230114184523
+52.34.254.5 1 1 5153 20230121163331
+68.69.184.202 1 1 5153 20230124045935
+54.186.90.101 5 35 2242980 20230118002618
+35.86.215.22 1 1 5153 20230122220717
+54.149.39.27 4 34 2242980 20230104231832
+157.34.216.126 5 35 2248133 20230131073711
+112.234.212.137 2 2 33962 20230119134225
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230101 80 282 22492383 17
+20230102 34 181 21871604 15
+20230103 105 521 44328707 48
+20230104 72 332 28353257 22
+20230105 119 227 14027485 32
+20230106 49 303 26527045 20
+20230107 36 180 11031503 17
+20230108 27 139 13356401 13
+20230109 72 269 35736809 16
+20230110 91 413 26924613 24
+20230111 69 333 35257783 21
+20230112 50 240 19043445 15
+20230113 63 246 12471531 25
+20230114 37 227 16958317 13
+20230115 47 169 8560892 29
+20230116 17 80 4861781 13
+20230117 21 49 1447580 15
+20230118 36 232 19424563 11
+20230119 55 265 15862950 25
+20230120 49 206 16858403 19
+20230121 26 92 3829177 17
+20230122 66 191 9929638 32
+20230123 16 47 2389513 12
+20230124 50 176 10107272 32
+20230125 59 271 38955662 19
+20230126 27 93 4175728 13
+20230127 54 182 15226268 25
+20230128 67 283 16020375 21
+20230129 25 70 2761507 8
+20230130 102 252 13705045 28
+20230131 77 306 35928192 21
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 28
+15mn-30mn 2
+5mn-15mn 9
+2mn-5mn 17
+30mn-1h 4
+0s-30s 578
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/ 731 5936203 542 456
+/resources/front-end/webfonts/icomoon3c1f3c1f.ttf 144 54677376 4 56
+/resources/front-end/webfonts/fa-brands-400.woff2 143 7791784 3 4
+/resources/front-end/webfonts/fa-solid-900.woff2 143 5741164 1 4
+/our-team.php 71 327916 4 5
+/events.php 66 273390 27 15
+/international-conference.php 42 211010 14 22
+/faculty-working-group.php 42 210459 6 7
+/about-us.php 31 128163 7 10
+/index.php 30 177337 5 9
+/Student-team.php 30 138710 1 4
+/advisory-board-members.php 29 138881 1 7
+/vision.php 24 97719 2 6
+/mision.php 18 87455 5 4
+/co-opted-members.php 17 78047 0 2
+/CDMS-Tarining.php 17 57817 0 3
+/photo-gallery.php 13 37944 2 4
+/NDRF-events.php 11 42680 0 1
+/our-logo.php 11 34080 2 3
+/press-release.php 11 27310 4 2
+/objective.php 10 31401 2 2
+/videos-gallery.php 9 21840 2 2
+/disast-o-pedia.php 9 32454 1 3
+/international-day-of-drr.php 7 25669 0 1
+/disaster-management-studies-events.php 6 25056 0 0
+/unprotected/loader.html 2 1810 0 2
+/resources/front-end/webfonts/fa-regular-400.woff2 3 36720 0 1
+/disaster.php 5 17240 0 0
+/capacity-building-program.php 5 19975 0 1
+/resources/front-end/webfonts/icomoon3c1f3c1f.woff 1 379780 0 0
+/art-e-disaster.php 5 16640 0 0
+/contact-us.php 4 29276 1 2
+/resources/front-end/webfonts/themify9f249f24.woff 1 56108 0 0
+/national-webinar.php 5 18910 1 0
+/cpanel 2 27141 1 0
+END_SIDER

@@ -1,0 +1,18 @@
+--- 
+documentroot: /home2/cdmssbsc/public_html
+group: cdmssbsc
+hascgi: 1
+homedir: /home2/cdmssbsc
+ip: 162.215.252.246
+ipv6: ~
+owner: bagwars1
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@cdmssbsc.org
+serveralias: mail.cdmssbsc.org www.cdmssbsc.org
+servername: cdmssbsc.org
+ssl: 1
+usecanonicalname: 'Off'
+user: cdmssbsc
+userdirprotect: ''

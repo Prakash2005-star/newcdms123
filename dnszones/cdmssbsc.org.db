@@ -1,0 +1,38 @@
+; cPanel first:86.0.36 (update_time):1674348297 Cpanel::ZoneFile::VERSION:1.3 hostname:bh-55.webhostbox.net latest:102.0.26
+; Zone file for cdmssbsc.org
+$TTL 14400
+cdmssbsc.org.	86400	IN	SOA	ns1.bh-55.webhostbox.net.	root.bh-55.webhostbox.net.	(
+						2023012201 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400	)
+cdmssbsc.org.	86400	IN	NS	ns1.bh-55.webhostbox.net.
+cdmssbsc.org.	86400	IN	NS	ns2.bh-55.webhostbox.net.
+cdmssbsc.org.	14400	IN	A	162.215.252.246
+localhost	14400	IN	A	127.0.0.1
+cdmssbsc.org.	14400	IN	MX	0	mail.cdmssbsc.org.
+mail	14400	IN	A	162.215.252.246
+www	14400	IN	CNAME	cdmssbsc.org.
+ftp	14400	IN	CNAME	cdmssbsc.org.
+cpanel	14400	IN	CNAME	cdmssbsc.org.
+webmail	14400	IN	CNAME	cdmssbsc.org.
+cdmssbsc.org.	14400	IN	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+whm	14400	IN	A	162.215.252.246
+autoconfig	14400	IN	A	162.215.252.246
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+_caldavs._tcp	14400	IN	SRV	0	0	2080	bh-55.webhostbox.net.
+_caldavs._tcp	14400	IN	TXT	path=/
+cpcalendars	14400	IN	A	162.215.252.246
+_carddav._tcp	14400	IN	SRV	0	0	2079	bh-55.webhostbox.net.
+_carddav._tcp	14400	IN	TXT	path=/
+cpcontacts	14400	IN	A	162.215.252.246
+_carddavs._tcp	14400	IN	SRV	0	0	2080	bh-55.webhostbox.net.
+_carddavs._tcp	14400	IN	TXT	path=/
+autodiscover	14400	IN	A	162.215.252.246
+_caldav._tcp	14400	IN	SRV	0	0	2079	bh-55.webhostbox.net.
+_caldav._tcp	14400	IN	TXT	path=/
+webdisk	14400	IN	A	162.215.252.246
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1RJeKc0osz8LtCLpLBPpYYjsRYHTDid72WdioshWDmsTEL/tvHn4jK1BV+2D3Fwk14pt5rWuINoASlhFU0aj4ESXaoAEEFWrm4PUrXMSKntFac2RlRkgWX+LOULVKajXqUMtTTANGK3MvXKzVznUpiyqZcZvAddLOqflkTI8HvRMXQoVBv3cHsBdyNyRkkzPB" ITiU39afo52WToP7mOzFNR1RfTg1zhvWNLVM3KSPO4HQG0ksmeX6zKDCy1OMotVJgG2v9zblh8qiMIv1RiHhjui8MRgXG0Wze7Wg2DSPyiomfjCUFeFKGTztYpMOi5eUjmMqC7JFlv6w/P7vEtF/wIDAQAB\;
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=Wiz1E2p8Kdq3Uj13UzMxDbThdOxlshtZ1NP8PSg79pKvBdRSJSImgjXMZmPgXSEF
+_acme-challenge	14400	IN	TXT	Tof0DfRNs0Oy0J0lUk0DI5koBxXSR8dzX2_3GhzJ8Rc
